@@ -1,25 +1,25 @@
 {
   "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "2017-10-06T09:00:00+03:00",
+  "endDate": "2017-10-07T19:00:00+03:00",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG Romania",
     "twitter": "gdglviv"
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#2196F3",
+    "backgroundColor": "#2196F3"
   },
   "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "name": "devfest-d5537",
+    "domain": "devfest-d5537.firebaseapp.com",
+    "database": "https://devfest-d5537.firebaseio.com/",
+    "api": "AIzaSyDShgAZ5QNONDlVs7AQekIWXkxPh10426c",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -28,7 +28,7 @@
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
-  "hashtag": "dfua",
+  "hashtag": "dfro",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -69,8 +69,8 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDG Romania",
+      "url": "https://www.facebook.com/DevFestRomania"
     },
     {
       "name": "linkedin",
@@ -80,22 +80,22 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Congress Hall Palas",
+    "address": "Str. Palas 7A, 700259 Iasi, Romania",
+    "link": "https://www.facebook.com/PalasCongressHall",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 47.157673,
+      "longitude": 27.589255,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 47.157673,
+      "longitude": 27.589255
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/congress_hall_1.jpg",
+      "/images/backgrounds/congress_hall_2.jpg",
+      "/images/backgrounds/congress_hall_3.jpg"
     ]
   },
   "gallery": {
@@ -112,13 +112,13 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#2196F3",
+        "backgroundImage": "/images/backgrounds/home.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
+          "title": "GDG DevFest Romania 2016",
+          "youtubeId": "u8m2z9ZYE5Y",
           "text": "See how it was in 2016"
         },
         "hideLogo": true,

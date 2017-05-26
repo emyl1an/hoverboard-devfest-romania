@@ -6,6 +6,12 @@
 
 <link rel="import" href="../../bower_components/neon-animation/neon-animated-pages.html">
 
+<link rel="import" href="../../bower_components/iron-icons/maps-icons.html">
+
+<link rel="import" href="../../bower_components/iron-icons/notification-icons.html">
+
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+
 <link rel="import" href="../styles/shared-styles.html">
 <link rel="import" href="animatable-content.html">
 
@@ -79,6 +85,14 @@
         text-transform: uppercase;
       }
 
+      .info-items {
+        margin-top: 8px;
+      }
+
+      .info-item:not(:last-of-type) {
+        margin-right: 8px;
+      }
+
       .motto {
         margin-top: 20px;
         font-size: 22px;
@@ -129,8 +143,20 @@
           <div class="container" center-justified>
             <div class="home-wrapper">
               <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="GDG DevFest Ukraine 2016"></iron-image>
-              <h3 class="dates">{$ dates $}</h3>
+                          alt="GDG DevFest Romania 2017"></iron-image>
+              <div class="info-items" layout horizontal wrap>
+                <div class="info-item">
+                  <iron-icon icon="notification:event-available">
+                  </iron-icon>
+                  {$ dates $}
+                </div>
+                <div class="info-item">
+                  <iron-icon icon="maps:place">
+                  </iron-icon>
+                  {$ locationAddressShort $}
+                </div>
+              </div>
+              <!-- <h3 class="dates">{$ dates $}</h3> -->
               <h2 class="motto">{$ motto $}</h2>
               <div class="open-video" on-tap="_openVideo">
                 <iron-icon icon="play"></iron-icon>
