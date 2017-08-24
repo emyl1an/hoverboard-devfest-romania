@@ -86,16 +86,16 @@ function build() {
         buildStream = buildStream.pipe(gulp.dest(config.build.rootDirectory));
         return waitFor(buildStream);
       })
-      .then(() => {
-        console.log('Generating the Service Worker...');
-
-        return polymerBuild.addServiceWorker({
-          project: polymerProject,
-          buildRoot: prependPath(config.build.rootDirectory, config.tempDirectory).replace('\\', '/'),
-          bundled: config.build.bundled,
-          swPrecacheConfig
-        });
-      })
+      // .then(() => {
+      //   console.log('Generating the Service Worker...');
+      //
+      //   return polymerBuild.addServiceWorker({
+      //     project: polymerProject,
+      //     buildRoot: prependPath(config.build.rootDirectory, config.tempDirectory).replace('\\', '/'),
+      //     bundled: config.build.bundled,
+      //     swPrecacheConfig
+      //   });
+      // })
       .then(() => {
         console.log('Normalizing...');
 

@@ -1,8 +1,8 @@
 {
   "title": "GDG DevFest Romania 2017",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "description": "The biggest Google tech conference in Romania carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 6-7, 2017",
+  "dates": "October 6, 2017",
   "locationAddressShort": "Iasi, Romania",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2016",
@@ -32,7 +32,7 @@
   "locationDescription": "Congress Hall situated in the heart of Iasi, in the Palas Complex",
   "locationAddress": "Str. Palas 7A, 700259 Iasi, Romania",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://gdgromania.ro/' target='_blank'>GDG Romania</a> with support of 4 GDGs from all around Romania is proud organizer of DevFest Romania",
+  "aboutOrganizers": "<a href='http://gdgromania.ro/' target='_blank'>GDG Romania</a> with support of 5 GDGs from all around Romania is proud organizer of DevFest Romania",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
   "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
@@ -84,18 +84,18 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Romania](http://gdgromania.ro/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Romanian audience to boost development of IT.",
+  "teamPageText": "<p style='font-weight: bold;'>When you join a GDG as a member or an organizer, you are joining a community. And like any growing community, a few ground rules about expected behavior is good for everyone.</p><p><span style='font-weight: bold;'>Be nice.</span> We’re all part of the same community, so be friendly, be welcoming, and generally be a nice person. Be someone that other people want to be around.</p><p><span style='font-weight: bold;'>Be respectful and constructive.</span> We’re a very diverse group (95 countries and counting!), so we’re not going to agree all the time. Remember to be respectful and constructive with your communication to your fellow GDG’ers. Don’t get into flamewars, don’t make personal attacks, don’t vent or rant unconstructively. Everyone should take responsibility for the community and take the initiative to diffuse tension and stop a potential flamewar or negative thread as early as possible.</p><p><span style='font-weight: bold;'>Be collaborative.</span> Work together! We can learn a lot from each other. Share knowledge, update the wiki, help each other out.</p><p><span style='font-weight: bold;'>Participate.</span> This is YOUR community, so be a part of it! Join in on discussions, show up for in-person meetings regularly, offer feedback, and offer to help implement that feedback!</p>",
   "statistics": [
     {
       "counter": 250,
       "caption": "Attendees"
     },
     {
-      "counter": 2,
-      "caption": "Days"
+      "counter": 1,
+      "caption": "Day"
     },
     {
-      "counter": 15,
+      "counter": 12,
       "caption": "Sessions"
     },
     {
@@ -104,7 +104,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "GDG DevFest 2016",
+    "videoId": "u8m2z9ZYE5Y"
   }
 }

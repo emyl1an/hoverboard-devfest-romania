@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://devfest.ro/",
   "startDate": "2017-10-06T09:00:00+03:00",
   "endDate": "2017-10-07T19:00:00+03:00",
   "analytics": {
@@ -7,13 +7,12 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Romania",
-    "twitter": "gdglviv"
+    "name": "GDG Romania"
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#2196F3",
-    "backgroundColor": "#2196F3"
+    "themeColor": "#512DA8",
+    "backgroundColor": "#512DA8"
   },
   "firebase": {
     "name": "devfest-d5537",
@@ -98,7 +97,7 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#2196F3",
+        "backgroundColor": "#512DA8",
         "backgroundImage": "/images/backgrounds/home.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
