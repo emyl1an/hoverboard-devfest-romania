@@ -2,7 +2,7 @@
   "title": "GDG DevFest Romania 2017",
   "description": "The biggest Google tech conference in Romania carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 6, 2017",
+  "dates": "November 17, 2017",
   "locationAddressShort": "Iasi, Romania",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2016",
@@ -28,9 +28,9 @@
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Congress Hall Palas, Iasi",
-  "locationDescription": "Congress Hall situated in the heart of Iasi, in the Palas Complex",
-  "locationAddress": "Str. Palas 7A, 700259 Iasi, Romania",
+  "locationTitle": "Hotel International, Iasi",
+  "locationDescription": "Hotel International situated in the heart of Iasi, in the Palas Complex",
+  "locationAddress": "Str. Palat 5A, 700032 Iasi, Romania",
   "organizerTitle": "Organizer",
   "aboutOrganizers": "<a href='http://gdgromania.ro/' target='_blank'>GDG Romania</a> with support of 5 GDGs from all around Romania is proud organizer of DevFest Romania",
   "openTeamPage": "Open team page",
@@ -58,6 +58,15 @@
   "removedFromSchedule": "Removed from My Schedule",
   "addedToSchedule": "Added to My Schedule",
   "rateSession": "Rate session",
+  "people": [
+    {
+      "id": "id",
+      "photoUrl": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      "companyLogo": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      "name": "Speaker 1",
+      "country": "Romania"
+    }
+  ],
   "footerBlocks": [
     {
       "title": "For visitors",
@@ -83,6 +92,7 @@
       }
     ]
   },
+
   "teamPageTitle": "Team",
   "teamPageText": "<p style='font-weight: bold;'>When you join a GDG as a member or an organizer, you are joining a community. And like any growing community, a few ground rules about expected behavior is good for everyone.</p><p><span style='font-weight: bold;'>Be nice.</span> We’re all part of the same community, so be friendly, be welcoming, and generally be a nice person. Be someone that other people want to be around.</p><p><span style='font-weight: bold;'>Be respectful and constructive.</span> We’re a very diverse group (95 countries and counting!), so we’re not going to agree all the time. Remember to be respectful and constructive with your communication to your fellow GDG’ers. Don’t get into flamewars, don’t make personal attacks, don’t vent or rant unconstructively. Everyone should take responsibility for the community and take the initiative to diffuse tension and stop a potential flamewar or negative thread as early as possible.</p><p><span style='font-weight: bold;'>Be collaborative.</span> Work together! We can learn a lot from each other. Share knowledge, update the wiki, help each other out.</p><p><span style='font-weight: bold;'>Participate.</span> This is YOUR community, so be a part of it! Join in on discussions, show up for in-person meetings regularly, offer feedback, and offer to help implement that feedback!</p>",
   "statistics": [

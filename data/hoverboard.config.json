@@ -30,7 +30,7 @@
   "hashtag": "dfro",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
@@ -65,21 +65,21 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Congress Hall Palas",
-    "address": "Str. Palas 7A, 700259 Iasi, Romania",
-    "link": "https://www.facebook.com/PalasCongressHall",
+    "name": "Hotel International",
+    "address": "Str. Palat 5A, 700032 Iasi, Romania",
+    "link": "http://hotelinternationaliasi.ro/",
     "pointer": {
-      "latitude": 47.157673,
-      "longitude": 27.589255,
+      "latitude": 47.154807,
+      "longitude": 27.586809,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 47.157673,
-      "longitude": 27.589255
+      "latitude": 47.154807,
+      "longitude": 27.586809
     },
     "images": [
-      "/images/backgrounds/congress_hall_1.jpg",
-      "/images/backgrounds/congress_hall_2.jpg",
+      "/images/backgrounds/international_conference_01.jpg",
+      "/images/backgrounds/international_conference_02.jpg",
       "/images/backgrounds/congress_hall_3.jpg"
     ]
   },
@@ -93,6 +93,15 @@
       ]
     }
   },
+  "people": [
+    {
+      "id": "id",
+      "photoUrl": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      "companyLogo": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      "name": "Speaker 1",
+      "country": "Romania"
+    }
+  ],
   "pages": {
     "home": {
       "title": "Home",
