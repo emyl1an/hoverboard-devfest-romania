@@ -4,37 +4,75 @@
   "sessions" : {
   },
   "speakers" : [ null, {
-    "bio" : "First Firebase GDE in South America. Front-end Engineer. Always traveling around.Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert he’s helping communities all over the world to learn, discover and have fun.",
-    "company" : "Tidy",
+    "bio" : "Marius Mailat is the founder and chief Android expert at P3 digital services and since 2015 the first Google Developer Expert in Eastern Europe. Marius has a master's degree in Computer Science and has worked in the field of software development for over 18 years. As Chief Technical Officer of P3 digital services, great apps were created in record time and they are still fine examples of workmanship, handmade in Dusseldorf, Belgrade and Cluj-Napoca. He is an active Android trainer a frequent speaker on technical conferences and events. He trained over 500 developers on four continents for companies like Intel, Siemens, Real Networks, Cisco, Garmin and many more.",
+    "company" : "P3 digital services",
     "companyLogo" : "",
-    "country" : "Dublin, Ireland",
+    "country" : "Cluj-Napoca, Romania",
     "featured" : true,
-    "id" : 1,
-    "name" : "Juarez Filho",
-    "photoUrl" : "/images/people/juarez_filho.jpg",
-    "shortBio" : "First Firebase GDE in South America. Front-end Engineer. Always traveling around.Passionate about...",
+    "id" : "marius_mailat",
+    "name" : "Marius Mailat",
+    "photoUrl" : "https://developers.google.com/experts/img/user/112300957226780804464.png",
+    "shortBio" : "Marius Mailat is the founder and chief Android expert at P3 digital services and since 2015 the first Google Developer Expert in Eastern Europe.",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+MariusMailat",
+      "name" : "Google+"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/mariusmailat/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/appsrise",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Chief Technology Officer / CEO at P3 digital services"
+  }, {
+    "bio" : "Vlad is a pragmatic software engineer, Google Developer Expert and an avid caffeine consumer. He loves surrounding himself with ever smiling people and he's constantly pushing his limits in order to become a better professional. He regularly speaks at conferences and meetups where he shares his passion for everything tech related. In March 2017 he founded KRAK3N so he can help clients build amazing products.",
+    "company" : "KRAK3N",
+    "companyLogo" : "",
+    "country" : "Cluj-Napoca, Romania",
+    "featured" : true,
+    "id" : "vlad_zelinschi",
+    "name" : "Vlad Zelinschi",
+    "photoUrl" : "/images/people/vlad_zelinschi",
+    "shortBio" : "Vlad is a pragmatic software engineer, Google Developer Expert and an avid caffeine consumer...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/r31gN_",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Founder"
+  }, {
+    "bio" : "With a working experience of 20 years, all spent in Information Technology areas, Felix had time to experience many industries in just as many roles. Starting with being a researcher in (quantitative aspects of) social sciences, going to being a developer for \"off the shelf\" software and later games, to being a solution consultant for major projects in big banks and telecom groups and to architecting and supervising development and operations for the services he co-authored as entrepreneur, services that ended up being market leaders in the territories where they are operated. In the spare time he is also teaching various topics, from fundamental web development techniques to machine learning and big data.",
+    "company" : "Netopia",
+    "companyLogo" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : true,
+    "id" : "felix_crisan",
+    "name" : "Felix Crisan",
+    "photoUrl" : "/images/people/felix_crisan.jpg",
+    "shortBio" : "Started on zx spectrum, currently on cloud and did everything in between...",
     "socials" : [ {
       "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/juarezpaf/",
+      "link" : "https://www.linkedin.com/in/fixone",
       "name" : "LinkedIn"
     }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/juarezpaf/",
+      "link" : "https://twitter.com/fixone",
       "name" : "Twitter"
-    }, {
-      "icon" : "gplus",
-      "link" : "plus.google.com/+JuarezPAFilho",
-      "name" : "Google+"
     } ],
     "tags" : [ "Cloud", "Web", "BigData" ],
-    "title" : "Front-End Engineer"
+    "title" : "Founder & CTO"
   }, {
     "bio" : "Shay Ben-Barak helps companies and startups to identify their users' needs and to cater for these needs relevant product-features with the best User eXperience!  He is running a small design boutique that is focusing on complex systems and on meaningful artifacts. Shay owns a master's degree in Cognitive Engineering from the Technion – Israel Institute of Technology and he is deeply involved in product management and UX design of digital products for almost two decades now. He also teaches UX design in the academy and evangelizes for ethical design practices.",
     "company" : "UXD",
     "companyLogo" : "",
     "country" : "Tel-Aviv, Israel",
     "featured" : true,
-    "id" : 2,
+    "id" : "shay_ben_barak",
     "name" : "Shay Ben-Barak",
     "photoUrl" : "http://uxd.co.il/images/ShayBB_2017.jpg",
     "shortBio" : "Shay Ben-Barak helps companies and startups to identify their users' needs and to cater for these needs relevant product-features with the best User eXperience!  He is running...",
@@ -55,7 +93,7 @@
     "companyLogo" : "",
     "country" : "Berlin, Germany",
     "featured" : true,
-    "id" : 3,
+    "id" : "ciro_nunez",
     "name" : "Ciro Nunes",
     "photoUrl" : "https://avatars0.githubusercontent.com/u/469908?v=4&u=0e847184e66be2dba374ba43218d59458fc5a815&s=400",
     "shortBio" : "Ciro is Google Developer Expert in Web Technologies, Lead Frontend Engineer at CrossEngage, former contributor to projects like AngularJS, Angular, Angular CLI and Karma.",
@@ -71,31 +109,32 @@
     "tags" : [ "Web" ],
     "title" : "Lead Frontend Engineer"
   }, {
-    "bio" : "Marius Mailat is the founder and chief Android expert at P3 digital services and since 2015 the first Google Developer Expert in Eastern Europe. Marius has a master's degree in Computer Science and has worked in the field of software development for over 17 years. As Chief Technical Officer of P3 digital services, great apps were created in record time and they are still fine examples of workmanship, handmade in Dusseldorf, Belgrade and Cluj-Napoca. He is an active Android trainer a frequent speaker on technical conferences and events. He trained over 500 developers on four continents for companies like Intel, Siemens, Real Networks, Cisco, Garmin and many more.",
-    "company" : "P3 digital services",
+    "bio" : "Alina has an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. Alina is also a UX trainer, mentor and advocate of design thinking approach. She leads the Women Techmakers Chapter by Google Developes Group in Romania and she is dedicated to developping and supporting the tech communities. She’s driven and curious.",
+    "company" : "EA",
     "companyLogo" : "",
-    "country" : "Cluj-Napoca, Romania",
+    "country" : "Bucharest, Romania",
     "featured" : true,
-    "id" : 4,
-    "name" : "Marius Mailat",
-    "photoUrl" : "https://developers.google.com/experts/img/user/112300957226780804464.png",
-    "shortBio" : "Marius Mailat is the founder and chief Android expert at P3 digital services and since 2015 the first Google Developer Expert in Eastern Europe.",
-    "socials" : [ {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/+MariusMailat",
-      "name" : "Google+"
-    }, {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/mariusmailat/",
-      "name" : "Linkedin"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/appsrise",
-      "name" : "Twitter"
-    } ],
-    "tags" : [ "Android" ],
-    "title" : "Chief Technology Officer / CEO at P3 digital services"
-  }],
+    "id" : "catalina_banuleasa",
+    "name" : "Alina Catalina Banuleasa",
+    "photoUrl" : "/images/people/catalina_banuleasa",
+    "shortBio" : "Alina has an extensive experience in User Experience, currently being part of the team...",
+    "socials" : [],
+    "tags" : [ "UX" ],
+    "title" : "User Experience Designer"
+  }, {
+    "bio" : "Victor is the co-organiser of GDG Bucharest and has been involved in the tech community for over four years. He's a Senior Android Developer, he has built several top apps (either consumer or enterprise oriented) and he also have a long background as a full-stack Java developer. In 2011 he co-founded Mobile Kinetics where they focus exclusively on native mobile applications on all major platforms.",
+    "company" : "Mobile Kinetics",
+    "companyLogo" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : true,
+    "id" : "victor_gradinescu",
+    "name" : "Victor Gradinescu",
+    "photoUrl" : "/images/people/victor_gradinescu",
+    "shortBio" : "Victor is the co-organiser of GDG Bucharest and has been involved in the tech community...",
+    "socials" : [],
+    "tags" : [],
+    "title" : "Co-founder"
+  } ],
   "team" : [],
   "tickets" : {
   },
