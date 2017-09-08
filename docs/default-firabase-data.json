@@ -1,7 +1,230 @@
 {
   "partners" : [],
-  "schedule" : [],
+  "schedule" : [ {
+    "date" : "2017-11-17",
+    "dateReadable" : "November 17",
+    "timeslots" : [ {
+      "endTime" : "10:00",
+      "sessions" : [ [ 201 ] ],
+      "startTime" : "09:00"
+    }, {
+      "endTime" : "10:15",
+      "sessions" : [ [ 202 ] ],
+      "startTime" : "10:00"
+    }, {
+      "endTime" : "11:00",
+      "sessions" : [ [ 203 ] ],
+      "startTime" : "10:15"
+    }, {
+      "endTime" : "11:40",
+      "sessions" : [ [ 101 ], [ 121 ] ],
+      "startTime" : "11:00"
+    }, {
+      "endTime" : "12:30",
+      "sessions" : [ [ 102 ], [ 122 ] ],
+      "startTime" : "11:50"
+    }, {
+      "endTime" : "14:00",
+      "sessions" : [ [ 204 ] ],
+      "startTime" : "12:30"
+    }, {
+      "endTime" : "14:40",
+      "sessions" : [ [ 103 ], [ 123 ] ],
+      "startTime" : "14:00"
+    }, {
+      "endTime" : "15:30",
+      "sessions" : [ [ 104 ], [ 124 ] ],
+      "startTime" : "14:50"
+    }, {
+      "endTime" : "16:00",
+      "sessions" : [ [ 205 ] ],
+      "startTime" : "15:30"
+    }, {
+      "endTime" : "16:40",
+      "sessions" : [ [ 105 ], [ 125 ] ],
+      "startTime" : "16:00"
+    }, {
+      "endTime" : "17:30",
+      "sessions" : [ [ 106 ], [ 126 ] ],
+      "startTime" : "16:50"
+    }, {
+      "endTime" : "18:20",
+      "sessions" : [ [ 107 ], [ 127 ] ],
+      "startTime" : "17:40"
+    }, {
+      "endTime" : "22:30",
+      "sessions" : [ [ 206 ] ],
+      "startTime" : "18:30"
+    }  ],
+    "tracks" : [ {
+      "title" : "Room 1"
+    }, {
+      "title" : "Room 2"
+    } ]
+  } ],
   "sessions" : {
+    "201" : {
+      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+      "id" : 201,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Registration & Morning Coffee"
+    },
+    "202" : {
+      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "id" : 202,
+      "title" : "GDG DevFest Romania 2017 Opening"
+    },
+    "203" : {
+      "description" : "Keynote",
+      "id" : 203,
+      "language" : "English",
+      "title" : "Keynote"
+    },
+    "204" : {
+      "description" : "Foooooooood!",
+      "id" : 204,
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Lunch break"
+    },
+    "205" : {
+      "description" : "Coffeeeeeee!",
+      "id" : 205,
+      "image" : "/images/backgrounds/coffee-break.jpg",
+      "title" : "Coffee break"
+    },
+    "206" : {
+      "description" : "Afterparty is a great time to have some fun and meet new people",
+      "id" : 206,
+      "image" : "/images/backgrounds/party.jpg",
+      "title" : "Afterparty & Networking"
+    },
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
+      "id" : 101,
+      "language" : "English",
+      "presentation" : "https://www.slideshare.net/felixcrisan",
+      "speakers" : [ 3 ],
+      "tags" : [ "Cloud", "Web", "BigData" ],
+      "title" : "XRay into your user behavior data"
+    },
+    "121" : {
+      "description" : "React still continues to dominate a decent chunk of the frontend frameworks space. The team behind it is relentless in moving React forward, thus a new (currently in beta) implementation (complete, fully backwards compatible re-write) of the core algorithm was the next logical step. Fiber is what makes React faster and more powerful. In this talk we are going to take a dive into how Fiber works, how is it different and what can you do to use it and take advantage of the improvements it brings.",
+      "id" : 121,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "Web" ],
+      "title" : "Breaking React apart Fiber by Fiber"
+    },
+    "102" : {
+      "description" : "TBA",
+      "id" : 102,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "122" : {
+      "description" : "TBA",
+      "id" : 122,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "103" : {
+      "description" : "TBA",
+      "id" : 103,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "123" : {
+      "description" : "TBA",
+      "id" : 123,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "104" : {
+      "description" : "TBA",
+      "id" : 104,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "124" : {
+      "description" : "TBA",
+      "id" : 124,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "105" : {
+      "description" : "TBA",
+      "id" : 105,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "125" : {
+      "description" : "TBA",
+      "id" : 125,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "106" : {
+      "description" : "TBA",
+      "id" : 106,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "126" : {
+      "description" : "TBA",
+      "id" : 126,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "107" : {
+      "description" : "TBA",
+      "id" : 107,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "127" : {
+      "description" : "TBA",
+      "id" : 127,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    }
   },
   "speakers" : [ null, {
     "bio" : "Marius Mailat is the founder and chief Android expert at P3 digital services and since 2015 the first Google Developer Expert in Eastern Europe. Marius has a master's degree in Computer Science and has worked in the field of software development for over 18 years. As Chief Technical Officer of P3 digital services, great apps were created in record time and they are still fine examples of workmanship, handmade in Dusseldorf, Belgrade and Cluj-Napoca. He is an active Android trainer a frequent speaker on technical conferences and events. He trained over 500 developers on four continents for companies like Intel, Siemens, Real Networks, Cisco, Garmin and many more.",
@@ -109,7 +332,7 @@
     "tags" : [ "Web" ],
     "title" : "Lead Frontend Engineer"
   }, {
-    "bio" : "Alina has an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. Alina is also a UX trainer, mentor and advocate of design thinking approach. She leads the Women Techmakers Chapter by Google Developes Group in Romania and she is dedicated to developping and supporting the tech communities. She’s driven and curious.",
+    "bio" : "Catalina is a Google Developper Expert with an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. She's currently  part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. Previously, for 2 years, she was the person behind the experience of ING Bank’s internet banking and she also coordinated innovative digital campaigns for 3 years, making ING one of the most loved Romanian brands in social media. Catalina is also a UX trainer, mentor and advocate of design thinking approach. She leads the Women Techmakers Chapter by Google Developers Group in Romania and she is dedicated to developing and supporting the tech communities. She’s driven and curious.",
     "company" : "EA",
     "companyLogo" : "",
     "country" : "Bucharest, Romania",
@@ -117,7 +340,7 @@
     "id" : 6,
     "name" : "Alina Catalina Banuleasa",
     "photoUrl" : "../images/people/catalina_banuleasa.jpg",
-    "shortBio" : "Alina has an extensive experience in User Experience, currently being part of the team...",
+    "shortBio" : "Alina has an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA...",
     "socials" : [],
     "tags" : [ "UX" ],
     "title" : "User Experience Designer"
@@ -130,8 +353,20 @@
     "id" : 7,
     "name" : "Victor Gradinescu",
     "photoUrl" : "../images/people/victor_gradinescu.jpg",
-    "shortBio" : "Victor is the co-organiser of GDG Bucharest and has been involved in the tech community...",
-    "socials" : [],
+    "shortBio" : "Victor is the co-organiser of GDG Bucharest and has been involved in the tech community for over four years...",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+VictorGradinescu",
+      "name" : "Google+"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/victorradugradinescu",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/vicgrad",
+      "name" : "Twitter"
+    } ],
     "tags" : [ "Android" ],
     "title" : "Co-founder"
   } ],
