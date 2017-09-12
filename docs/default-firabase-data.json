@@ -372,6 +372,31 @@
   } ],
   "team" : [],
   "tickets" : {
+    "elements" : [ {
+      "currency" : "€",
+      "ends" : "Nov 17",
+      "info" : "Requires valid student ID",
+      "name" : "Student",
+      "price" : 30,
+      "soldOut" : false,
+      "starts" : "Sep 1"
+    }, {
+      "currency" : "€",
+      "ends" : "Oct 15",
+      "info" : "Our first 100 tickets",
+      "name" : "Early Bird",
+      "price" : 50,
+      "soldOut" : false,
+      "starts" : "Sep 1"
+    }, {
+      "currency" : "€",
+      "ends" : "Nov 17",
+      "name" : "Lazy Bird",
+      "price" : 75,
+      "soldOut" : false,
+      "starts" : "Oct 16"
+    } ],
+    "url" : "https://goo.gl/7MoS2n"
   },
   "videos" : []
 }
