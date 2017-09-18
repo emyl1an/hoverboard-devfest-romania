@@ -341,7 +341,23 @@
     "name" : "Alina Catalina Banuleasa",
     "photoUrl" : "../images/people/catalina_banuleasa.jpg",
     "shortBio" : "Alina has an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA...",
-    "socials" : [],
+    "socials" : [{
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/alina.catalina",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/alinacatalina/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+AlinaCatalina",
+      "name" : "Google+"
+    }, {
+      "icon" : "website",
+      "link" : "https://www.banuleasa.com/",
+      "name" : "Website"
+    }],
     "tags" : [ "UX" ],
     "title" : "User Experience Designer"
   }, {
