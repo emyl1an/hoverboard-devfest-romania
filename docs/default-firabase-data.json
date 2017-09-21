@@ -406,7 +406,28 @@
       } ],
       "tags" : [ "Cloud"],
       "title" : "Software Engineer"
-    }],
+    }, {
+    "bio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
+    "company" : "Zalando SE",
+    "companyLogo" : "",
+    "country" : "Berlin, Germany",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Andrei Ion",
+    "photoUrl" : "https://pbs.twimg.com/profile_images/677178939140214784/vBIExZ4j.jpg",
+    "shortBio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/dcifuen",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/dcifuen",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Cloud"],
+    "title" : "Software Engineer"
+  }],
   "team" : [],
   "tickets" : {
     "elements" : [ {
