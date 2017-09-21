@@ -99,7 +99,7 @@
       "title" : "Afterparty & Networking"
     },
     "101" : {
-      "complexity" : "Beginner",
+      "complexity" : "Intermediate",
       "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
       "id" : 101,
       "language" : "English",
@@ -118,22 +118,24 @@
       "title" : "Breaking React apart Fiber by Fiber"
     },
     "102" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "The presentation is about practices and tools for developing an app used by millions of people in multiple countries. It contains tips about choosing technologies, performance, code testing, A/B testing, user testing, app monitoring, release. The key takeaway would be how to tackle both product and technical challenges and release the app without being afraid something will go wrong.",
       "id" : 102,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 9 ],
+      "tags" : [ "Android" ],
+      "title" : "Android best practices and tools when building for millions"
     },
     "122" : {
-      "description" : "TBA",
+      "complexity" : "Beginner",
+      "description" : "Build your mobile application easier and with more visual freedom then ever before.",
       "id" : 122,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 10 ],
+      "tags" : [ "Android" ],
+      "title" : "Flutter.io - new way to build your mobile application with single codebase for Android and iOS."
     },
     "103" : {
       "description" : "TBA",
@@ -407,26 +409,47 @@
       "tags" : [ "Cloud"],
       "title" : "Software Engineer"
     }, {
-    "bio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
-    "company" : "Zalando SE",
+    "bio" : "Ana is an experienced developer, currently working on the Android Consumer Application at Deliveroo, UK’s fastest growing tech start-up. She is strongly focused on product quality, innovation and continuous learning. Fun fact about Ana: if you check her Deliveroo order history you'll see only sweets and a prawn that she ordered by mistake to a random address before the app was officially launched.",
+    "company" : "Deliveroo",
     "companyLogo" : "",
-    "country" : "Berlin, Germany",
+    "country" : "London, UK",
     "featured" : true,
-    "id" : 8,
-    "name" : "Andrei Ion",
-    "photoUrl" : "https://pbs.twimg.com/profile_images/677178939140214784/vBIExZ4j.jpg",
-    "shortBio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud...",
+    "id" : 9,
+    "name" : "Ana-Maria Capatina",
+    "photoUrl" : "../images/people/ana_maria_capatana.jpg",
+    "shortBio" : "Ana is an experienced developer, currently working on the Android Consumer Application at Deliveroo, UK’s fastest growing tech start-up. She is strongly focused on product quality, innovation and continuous learning.",
     "socials" : [ {
       "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/dcifuen",
+      "link" : "https://www.linkedin.com/in/anamariacapatina/",
       "name" : "LinkedIn"
     }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/dcifuen",
+      "link" : "https://twitter.com/anikiki00",
       "name" : "Twitter"
     } ],
-    "tags" : [ "Cloud"],
-    "title" : "Software Engineer"
+    "tags" : [ "Android"],
+    "title" : "Android Engineer"
+  }, {
+    "bio" : "Tomas is a Google Developer Expert on Google Cloud Platform and Dart. He is a partner in digital agency Multimedia atelier and founder of backend studio fnx.io. He has 20 years of experience in Java development and project management. He has created many successful applications and intends to create a lot more.",
+    "company" : "fnx.io",
+    "companyLogo" : "",
+    "country" : "Prague, Czech Republic",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Tomas Zverina",
+    "photoUrl" : "https://pbs.twimg.com/profile_images/532087429025382400/ALsAla7e_400x400.jpeg",
+    "shortBio" : "Tomas is a Google Developer Expert on Google Cloud Platform and Dart. He is a partner in digital agency Multimedia atelier and founder of backend studio fnx.io.",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+TomasZverina",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/tomucha",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Founder"
   }],
   "team" : [],
   "tickets" : {
