@@ -138,13 +138,14 @@
       "title" : "Flutter.io - new way to build your mobile application with single codebase for Android and iOS."
     },
     "103" : {
-      "description" : "TBA",
+      "complexity" : "Beginner",
+      "description" : "Google Cloud ML APIs",
       "id" : 103,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 11 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Google Cloud ML APIs"
     },
     "123" : {
       "description" : "TBA",
@@ -448,8 +449,25 @@
       "link" : "https://twitter.com/tomucha",
       "name" : "Twitter"
     } ],
-    "tags" : [ "Android" ],
+    "tags" : [ "Cloud", "Web", "Android" ],
     "title" : "Founder"
+  }, {
+    "bio" : "Software Development background, also spent some time on the entrepreneurial path. Now focused on helping customers adopt Google Cloud.",
+    "company" : "Google",
+    "companyLogo" : "",
+    "country" : "Bucuresti, Romania",
+    "featured" : true,
+    "id" : 11,
+    "name" : "Andrei Ion",
+    "photoUrl" : "https://lh5.googleusercontent.com/TCHe0tjGqmEr-Zk8udJoJPSafFVCIIQZU1PY8kKybauxQcg-ejBrTm5BWaluyu-Hdw4t0j-DES5sCtg=w1482-h960-rw",
+    "shortBio" : "Software Development background, also spent some time on the entrepreneurial path. Now focused on helping customers adopt Google Cloud.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/andrei_ion_",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Cloud" ],
+    "title" : "Customer Engineer"
   }],
   "team" : [],
   "tickets" : {
