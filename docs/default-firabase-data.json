@@ -148,31 +148,34 @@
       "title" : "Google Cloud ML APIs"
     },
     "123" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "In the talk we will review tips, tricks and actual examples of \"don’t make me think\" UX and of interfaces that wisely manipulate the mental workload in order to help users to achieve their goals.",
       "id" : 123,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 4 ],
+      "tags" : [ "UX" ],
+      "title" : "Don't Make Me Think!"
     },
     "104" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "Animations are always exciting, in this presentation I'll show how much fun it is to create them with Angular",
       "id" : 104,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 5 ],
+      "tags" : [ "Web" ],
+      "title" : "Animating with Angular"
     },
     "124" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
       "id" : 124,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 8 ],
+      "tags" : [ "Cloud", "BigData" ],
+      "title" : "Going API First on the Google Cloud with Connexion"
     },
     "105" : {
       "description" : "TBA",
