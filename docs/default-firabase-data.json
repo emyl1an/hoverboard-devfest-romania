@@ -1,5 +1,20 @@
 {
-  "partners" : [],
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/",
+      "width" : 170
+    } ],
+    "title" : "General Sponsor"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/garanti_bank.svg",
+      "name" : "Garanti Bank",
+      "url" : "http://www.garantibank.ro/ro/#calcContent=UID5011577&calcContent2=UID9acb2c"
+    }],
+    "title" : "Sponsors"
+  } ],
   "schedule" : [ {
     "date" : "2017-11-17",
     "dateReadable" : "November 17",

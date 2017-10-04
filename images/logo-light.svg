@@ -43,9 +43,9 @@
     </g>
    </g>
   </g>
-  <text stroke-opacity="0" stroke="#ad4343" transform="matrix(3.687840700149536,0,0,3.2143719043235137,-467.6842818260193,-33.07926862029609) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="32" id="svg_1" y="36.95912" x="165.051674" stroke-width="0" fill="#fafafa">GDG DevFest</text>
-  <text stroke="#000" transform="matrix(51.06112588755195,0,0,2.5040767192840576,-21476.758206213755,-244.69448126852512) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_2" y="154.5" x="424" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
-  <text stroke="#000" transform="matrix(21.581497192382812,0,0,1.9827255010604858,-8822.065819978714,-152.03070603124797) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_3" y="146.5" x="418" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
-  <text transform="matrix(4.7493851376025304,0,0,4.293467924267412,-917.0156213917948,-463.0798406217726) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_4" y="151.090152" x="223.894464" stroke-width="0" fill="#fafafa">Romania 2017</text>
+  <text stroke-opacity="0" stroke="#ad4343" transform="matrix(3.687840700149536,0,0,3.2143719043235137,-467.6842818260193,-33.07926862029609) " xml:space="preserve" text-anchor="start" font-family="'Product Sans'" font-size="32" id="svg_1" y="36.95912" x="165.051674" stroke-width="0" fill="#fafafa">GDG DevFest</text>
+  <text stroke="#000" transform="matrix(51.06112588755195,0,0,2.5040767192840576,-21476.758206213755,-244.69448126852512) " xml:space="preserve" text-anchor="start" font-family="'Product Sans'" font-size="24" id="svg_2" y="154.5" x="424" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <text stroke="#000" transform="matrix(21.581497192382812,0,0,1.9827255010604858,-8822.065819978714,-152.03070603124797) " xml:space="preserve" text-anchor="start" font-family="'Product Sans'" font-size="24" id="svg_3" y="146.5" x="418" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <text transform="matrix(4.7493851376025304,0,0,4.293467924267412,-917.0156213917948,-463.0798406217726) " xml:space="preserve" text-anchor="start" font-family="'Product Sans'" font-size="24" id="svg_4" y="151.090152" x="223.894464" stroke-width="0" fill="#fafafa">Romania 2017</text>
  </g>
 </svg>
