@@ -12,8 +12,23 @@
       "logoUrl" : "../images/logos/garanti_bank.svg",
       "name" : "Garanti Bank",
       "url" : "http://www.garantibank.ro/ro/#calcContent=UID5011577&calcContent2=UID9acb2c"
+    }, {
+      "logoUrl" : "../images/logos/appsbroker.png",
+      "name" : "Appsbroker",
+      "url" : "https://www.appsbroker.com/"
     }],
     "title" : "Sponsors"
+  },{
+    "logos" : [ {
+      "logoUrl" : "../images/logos/codecamp.png",
+      "name" : "Codecamp",
+      "url" : "https://codecamp.ro"
+    }, {
+      "logoUrl" : "../images/logos/thehack.png",
+      "name" : "TheHack",
+      "url" : "http://thehack.biz/"
+    }],
+    "title" : "Partners"
   } ],
   "schedule" : [ {
     "date" : "2017-11-17",
@@ -474,7 +489,7 @@
     "company" : "Google",
     "companyLogo" : "",
     "country" : "Bucuresti, Romania",
-    "featured" : true,
+    "featured" : false,
     "id" : 11,
     "name" : "Andrei Ion",
     "photoUrl" : "../images/people/andrei_ion.jpg",
