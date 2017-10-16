@@ -511,10 +511,10 @@
     "featured" : false,
     "id" : 12,
     "name" : "Magda Miu",
-    "photoUrl" : "../images/people/magda_miu.jpg",
+    "photoUrl" : "../images/people/magda_miu.png",
     "shortBio" : "Magda is an enthusiastic and innovative Mobile Developer, with more than 7 years experience in software development also as a technical team leader and Scrum Master...",
     "socials" : [ {
-      "icon" : "web",
+      "icon" : "website",
       "link" : "https://magdamiu.com/",
       "name" : "Web"
     }, {
@@ -539,7 +539,7 @@
       "link" : "https://www.linkedin.com/in/miualinionut",
       "name" : "LinkedIn"
     }, {
-      "icon" : "web",
+      "icon" : "website",
       "link" : "https://alinmiu.com/",
       "name" : "Web"
     } ],
