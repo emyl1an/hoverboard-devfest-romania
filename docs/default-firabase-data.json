@@ -208,22 +208,24 @@
       "title" : "Going API First on the Google Cloud with Connexion"
     },
     "105" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "At Google I/O 2017, the Android team lunched Room Persistence Library, an SQLite object mapper. My presentation will be about how to use it in our code.",
       "id" : 105,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "Android Room Persistence Library"
     },
     "125" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "Angular for Java developers",
       "id" : 125,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 13 ],
+      "tags" : [ "Web" ],
+      "title" : "Angular for Java developers"
     },
     "106" : {
       "description" : "TBA",
@@ -501,6 +503,48 @@
     } ],
     "tags" : [ "Cloud" ],
     "title" : "Customer Engineer"
+  }, {
+    "bio" : "Magda is an enthusiastic and innovative Mobile Developer, with more than 7 years experience in software development also as a technical team leader and Scrum Master. She is happy to create an inspiring team environment with an open communication culture, to discover the team members’ training needs, to recognise and reward accomplishments and also to encourage creativity and risk-taking. Magda is also co-organiser at GDG Pitesti and Women Techmakers Romania.",
+    "company" : "Roweb",
+    "companyLogo" : "",
+    "country" : "Pitesti, Romania",
+    "featured" : false,
+    "id" : 12,
+    "name" : "Magda Miu",
+    "photoUrl" : "../images/people/magda_miu.jpg",
+    "shortBio" : "Magda is an enthusiastic and innovative Mobile Developer, with more than 7 years experience in software development also as a technical team leader and Scrum Master...",
+    "socials" : [ {
+      "icon" : "web",
+      "link" : "https://magdamiu.com/",
+      "name" : "Web"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/magdamiu/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Senior Android Developer and Team Leader"
+  }, {
+    "bio" : "Alin is a technology enthusiast and passionate about agile methodologies.  With 6 years of experience in software development and expertise in mobile & web applications, he has been involved in developing, testing and maintaining applications but also in managing small teams and optimising company's internal processes. Alin is also Co-organiser at GDG Pitesti and trainer at Scoala Informala de IT.",
+    "company" : "Luxoft",
+    "companyLogo" : "",
+    "country" : "Pitesti, Romania",
+    "featured" : false,
+    "id" : 13,
+    "name" : "Alin Miu",
+    "photoUrl" : "../images/people/alin_miu.jpg",
+    "shortBio" : "Alin is a technology enthusiast and passionate about agile methodologies.  With 6 years of experience in software development and expertise in mobile & web applications...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/miualinionut",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "web",
+      "link" : "https://alinmiu.com/",
+      "name" : "Web"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Senior Java Developer"
   }],
   "team" : [],
   "tickets" : {
