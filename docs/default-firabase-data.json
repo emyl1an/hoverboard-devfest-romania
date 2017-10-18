@@ -42,45 +42,41 @@
       "sessions" : [ [ 202 ] ],
       "startTime" : "10:00"
     }, {
-      "endTime" : "11:00",
+      "endTime" : "10:50",
       "sessions" : [ [ 203 ] ],
       "startTime" : "10:15"
     }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 101 ], [ 121 ] ],
+      "endTime" : "11:45",
+      "sessions" : [ [ 101 ], [ 111 ], [ 121 ] ],
       "startTime" : "11:00"
     }, {
-      "endTime" : "12:30",
-      "sessions" : [ [ 102 ], [ 122 ] ],
-      "startTime" : "11:50"
+      "endTime" : "12:45",
+      "sessions" : [ [ 102 ], [ 112 ], [ 122 ] ],
+      "startTime" : "12:00"
     }, {
       "endTime" : "14:00",
       "sessions" : [ [ 204 ] ],
-      "startTime" : "12:30"
+      "startTime" : "12:45"
     }, {
-      "endTime" : "14:40",
-      "sessions" : [ [ 103 ], [ 123 ] ],
+      "endTime" : "14:45",
+      "sessions" : [ [ 103 ], [ 113 ], [ 123 ] ],
       "startTime" : "14:00"
     }, {
-      "endTime" : "15:30",
-      "sessions" : [ [ 104 ], [ 124 ] ],
-      "startTime" : "14:50"
+      "endTime" : "15:45",
+      "sessions" : [ [ 104 ], [ 114 ], [ 124 ] ],
+      "startTime" : "15:00"
     }, {
-      "endTime" : "16:00",
+      "endTime" : "16:15",
       "sessions" : [ [ 205 ] ],
-      "startTime" : "15:30"
+      "startTime" : "15:45"
     }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 105 ], [ 125 ] ],
-      "startTime" : "16:00"
+      "endTime" : "17:00",
+      "sessions" : [ [ 105 ], [ 115 ], [ 125 ] ],
+      "startTime" : "16:15"
     }, {
-      "endTime" : "17:30",
-      "sessions" : [ [ 106 ], [ 126 ] ],
-      "startTime" : "16:50"
-    }, {
-      "endTime" : "18:20",
-      "sessions" : [ [ 107 ], [ 127 ] ],
-      "startTime" : "17:40"
+      "endTime" : "18:00",
+      "sessions" : [ [ 106 ], [ 116 ], [ 126 ] ],
+      "startTime" : "17:15"
     }, {
       "endTime" : "22:30",
       "sessions" : [ [ 206 ] ],
@@ -90,6 +86,8 @@
       "title" : "Room 1"
     }, {
       "title" : "Room 2"
+    }, {
+      "title" : "Room 3"
     } ]
   } ],
   "sessions" : {
@@ -130,102 +128,148 @@
     },
     "101" : {
       "complexity" : "Intermediate",
-      "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
-      "id" : 101,
-      "language" : "English",
-      "presentation" : "https://www.slideshare.net/felixcrisan",
-      "speakers" : [ 3 ],
-      "tags" : [ "Cloud", "Web", "BigData" ],
-      "title" : "XRay into your user behavior data"
-    },
-    "121" : {
-      "description" : "React still continues to dominate a decent chunk of the frontend frameworks space. The team behind it is relentless in moving React forward, thus a new (currently in beta) implementation (complete, fully backwards compatible re-write) of the core algorithm was the next logical step. Fiber is what makes React faster and more powerful. In this talk we are going to take a dive into how Fiber works, how is it different and what can you do to use it and take advantage of the improvements it brings.",
-      "id" : 121,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 2 ],
-      "tags" : [ "Web" ],
-      "title" : "Breaking React apart Fiber by Fiber"
-    },
-    "102" : {
-      "complexity" : "Intermediate",
       "description" : "The presentation is about practices and tools for developing an app used by millions of people in multiple countries. It contains tips about choosing technologies, performance, code testing, A/B testing, user testing, app monitoring, release. The key takeaway would be how to tackle both product and technical challenges and release the app without being afraid something will go wrong.",
-      "id" : 102,
+      "id" : 101,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 9 ],
       "tags" : [ "Android" ],
       "title" : "Android best practices and tools when building for millions"
     },
-    "122" : {
-      "complexity" : "Beginner",
-      "description" : "Build your mobile application easier and with more visual freedom then ever before.",
-      "id" : 122,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 10 ],
-      "tags" : [ "Android" ],
-      "title" : "Flutter.io - new way to build your mobile application with single codebase for Android and iOS."
-    },
-    "103" : {
-      "complexity" : "Beginner",
-      "description" : "Google Cloud ML APIs",
-      "id" : 103,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 11 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Google Cloud ML APIs"
-    },
-    "123" : {
-      "complexity" : "Intermediate",
-      "description" : "In the talk we will review tips, tricks and actual examples of \"don’t make me think\" UX and of interfaces that wisely manipulate the mental workload in order to help users to achieve their goals.",
-      "id" : 123,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 4 ],
-      "tags" : [ "UX" ],
-      "title" : "Don't Make Me Think!"
-    },
-    "104" : {
+    "111" : {
       "complexity" : "Intermediate",
       "description" : "Animations are always exciting, in this presentation I'll show how much fun it is to create them with Angular",
-      "id" : 104,
+      "id" : 111,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 5 ],
       "tags" : [ "Web" ],
       "title" : "Animating with Angular"
     },
-    "124" : {
+    "121" : {
       "complexity" : "Intermediate",
-      "description" : "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
-      "id" : 124,
+      "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
+      "id" : 121,
       "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 8 ],
-      "tags" : [ "Cloud", "BigData" ],
-      "title" : "Going API First on the Google Cloud with Connexion"
+      "presentation" : "https://www.slideshare.net/felixcrisan",
+      "speakers" : [ 3 ],
+      "tags" : [ "Cloud", "Web", "BigData" ],
+      "title" : "XRay into your user behavior data"
     },
-    "105" : {
+    "102" : {
       "complexity" : "Intermediate",
       "description" : "At Google I/O 2017, the Android team lunched Room Persistence Library, an SQLite object mapper. My presentation will be about how to use it in our code.",
-      "id" : 105,
+      "id" : 102,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 12 ],
       "tags" : [ "Android" ],
       "title" : "Android Room Persistence Library"
     },
-    "125" : {
+    "112" : {
       "complexity" : "Intermediate",
       "description" : "Angular for Java developers",
-      "id" : 125,
+      "id" : 112,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 13 ],
       "tags" : [ "Web" ],
       "title" : "Angular for Java developers"
+    },
+    "122" : {
+      "complexity" : "Beginner",
+      "description" : "Google Cloud ML APIs",
+      "id" : 122,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 11 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Google Cloud ML APIs"
+    },
+    "103" : {
+      "complexity" : "Beginner",
+      "description" : "Build your mobile application easier and with more visual freedom then ever before.",
+      "id" : 103,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 10 ],
+      "tags" : [ "Android" ],
+      "title" : "Flutter.io - new way to build your mobile application with single codebase for Android and iOS."
+    },
+    "113" : {
+      "complexity" : "Intermediate",
+      "description" : "React still continues to dominate a decent chunk of the frontend frameworks space. The team behind it is relentless in moving React forward, thus a new (currently in beta) implementation (complete, fully backwards compatible re-write) of the core algorithm was the next logical step. Fiber is what makes React faster and more powerful. In this talk we are going to take a dive into how Fiber works, how is it different and what can you do to use it and take advantage of the improvements it brings.",
+      "id" : 113,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "Web" ],
+      "title" : "Breaking React apart Fiber by Fiber"
+    },
+    "123" : {
+      "complexity" : "Intermediate",
+      "description" : "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
+      "id" : 123,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 8 ],
+      "tags" : [ "Cloud", "BigData" ],
+      "title" : "Going API First on the Google Cloud with Connexion"
+    },
+    "104" : {
+      "description" : "TBA",
+      "id" : 104,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "114" : {
+      "complexity" : "Intermediate",
+      "description" : "In the talk we will review tips, tricks and actual examples of \"don’t make me think\" UX and of interfaces that wisely manipulate the mental workload in order to help users to achieve their goals.",
+      "id" : 114,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 4 ],
+      "tags" : [ "UX" ],
+      "title" : "Don't Make Me Think!"
+    },
+    "124" : {
+      "description" : "TBA",
+      "id" : 124,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "105" : {
+      "description" : "TBA",
+      "id" : 105,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "115" : {
+      "description" : "TBA",
+      "id" : 115,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "125" : {
+      "description" : "TBA",
+      "id" : 125,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
     },
     "106" : {
       "description" : "TBA",
@@ -236,27 +280,18 @@
       "tags" : [],
       "title" : "TBA"
     },
+    "116" : {
+      "description" : "TBA",
+      "id" : 116,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
     "126" : {
       "description" : "TBA",
       "id" : 126,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
-    },
-    "107" : {
-      "description" : "TBA",
-      "id" : 107,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
-    },
-    "127" : {
-      "description" : "TBA",
-      "id" : 127,
       "language" : "English",
       "presentation" : "",
       "speakers" : [],
