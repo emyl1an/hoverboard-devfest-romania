@@ -217,13 +217,14 @@
       "title" : "Going API First on the Google Cloud with Connexion"
     },
     "104" : {
-      "description" : "TBA",
+      "complexity" : "Advanced",
+      "description" : "Description: An opinionated view on building sturdy, testable and scalable Android apps using the right architecture, based on MVVM, RxJava and DataBinding. We'll go into the details of our tried and tested approach to creating apps, from how data gets loaded and persisted to how it's prepared for the UI and how layouts are built, with a focus on how everything fits together. Motivation: Many developers have been focusing on getting things done quickly and with no regards to long-term maintenance and developing architectures that stand the test of time. However, there are ways in which apps can be built quickly, yet still have a solid architecture that's versatile and allows new features to be easily added. In our company, we've worked on a multitude of projects, from very small ones to huge ones that we're still maintaining years later and, in time, we've tested various architectures, patterns and frameworks. The goal of the presentation is to share our experiences and give details on the approach we've had best results with so far.",
       "id" : 104,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 15 ],
+      "tags" : [ "Android" ],
+      "title" : "An Architecture-First approach to building apps"
     },
     "114" : {
       "complexity" : "Intermediate",
@@ -236,13 +237,14 @@
       "title" : "Don't Make Me Think!"
     },
     "124" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "The software industry is on the verge to change and new niches are appearing every day. Do you want to know what are the industry needs and how can you or your  company respond to them? Developing from top to bottom is not enough anymore. A new kind of developer is expected in 2018. Join Marius to find out who is that developer.",
       "id" : 124,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" , "Machine Learning" ],
+      "title" : "Where to code next: machine learning, mixed reality, RPA, robotics? A down to earth advice from a Google Developer Expert."
     },
     "105" : {
       "description" : "TBA",
@@ -263,13 +265,14 @@
       "title" : "TBA"
     },
     "125" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "Unite the benefits from what all cloud providers have to offer and create a global Kubernetes cluster that scales worldwide.",
       "id" : 125,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 14 ],
+      "tags" : [ "Cloud" , "BigData" ],
+      "title" : "Run a cross-cloud Kubernetes cluster of clusters"
     },
     "106" : {
       "description" : "TBA",
@@ -302,7 +305,7 @@
   "speakers" : [ null, {
     "bio" : "Marius Mailat is the founder and chief Android expert at P3 digital services and since 2015 the first Google Developer Expert in Eastern Europe. Marius has a master's degree in Computer Science and has worked in the field of software development for over 18 years. As Chief Technical Officer of P3 digital services, great apps were created in record time and they are still fine examples of workmanship, handmade in Dusseldorf, Belgrade and Cluj-Napoca. He is an active Android trainer a frequent speaker on technical conferences and events. He trained over 500 developers on four continents for companies like Intel, Siemens, Real Networks, Cisco, Garmin and many more.",
     "company" : "P3 digital services",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/p3.png",
     "country" : "Cluj-Napoca, Romania",
     "featured" : true,
     "id" : 1,
@@ -365,7 +368,7 @@
   }, {
     "bio" : "Shay Ben-Barak helps companies and startups to identify their users' needs and to cater for these needs relevant product-features with the best User eXperience!  He is running a small design boutique that is focusing on complex systems and on meaningful artifacts. Shay owns a master's degree in Cognitive Engineering from the Technion – Israel Institute of Technology and he is deeply involved in product management and UX design of digital products for almost two decades now. He also teaches UX design in the academy and evangelizes for ethical design practices.",
     "company" : "UXD",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/uxd.png",
     "country" : "Tel-Aviv, Israel",
     "featured" : false,
     "id" : 4,
@@ -580,6 +583,40 @@
     } ],
     "tags" : [ "Web" ],
     "title" : "Senior Java Developer"
+  }, {
+    "bio" : "Marius launched NETBEARS almost 3 years ago, with one dream in mind: to build a team of experts trained to tackle any problem and implement the optimum solution which fits the client’s business processes. At the moment, he's a full-stack DevOps engineer with experience in making web applications scalable in NodeJS, PHP and Python. Although he's a SysAdmin at the core, using the various opportunities he had to code, he ve developed a programmer mindset and can now fully automate infrastructures or debug applications written in JS, PHP and Python.  Yes, he's the geek kind of company owner, extremely passionate about what he does and fully-dedicated to offering remarkable services and sustainable projects. ",
+    "company" : "NETBEARS",
+    "companyLogo" : "../images/logos/netbears.png",
+    "country" : "Iasi, Romania",
+    "featured" : false,
+    "id" : 14,
+    "name" : "Marius Mitrofan",
+    "photoUrl" : "../images/people/marius_mitrofan.jpg",
+    "shortBio" : "Marius launched NETBEARS almost 3 years ago, with one dream in mind: to build a team of experts trained to tackle any problem and implement the optimum solution which fits the client’s business processes...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/mariusmitrofan/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Cloud" , "BigData" ],
+    "title" : "Senior IT Consultant"
+  }, {
+    "bio" : "Cosmin is a full-stack software engineer and leads the team that develops native apps at the company he founded. He has joined the Android universe more than 7 years ago and his been passionate about creating mobile apps ever since. He believes great architecture and clean code are a must for an excelling product. He loves to travel.",
+    "company" : "Silverbit Tech",
+    "companyLogo" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : false,
+    "id" : 15,
+    "name" : "Cosmin Stefan Dobrin",
+    "photoUrl" : "../images/people/cosmin_dobrin.jpg",
+    "shortBio" : "Cosmin is a full-stack software engineer and leads the team that develops native apps at the company he founded...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/cosmin.stefan",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Founder and Android Team Lead"
   }],
   "team" : [],
   "tickets" : {
