@@ -389,7 +389,7 @@
   }, {
     "bio" : "Ciro is Google Developer Expert in Web Technologies, Lead Frontend Engineer at CrossEngage, former contributor to projects like AngularJS, Angular, Angular CLI and Karma. When he's not in the computer or in conferences he's practicing Brazilian Jiu Jitsu.",
     "company" : "CrossEngage",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/crossengage.png",
     "country" : "Berlin, Germany",
     "featured" : true,
     "id" : 5,
@@ -410,7 +410,7 @@
   }, {
     "bio" : "Catalina is a Google Developper Expert with an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. She's currently  part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. Previously, for 2 years, she was the person behind the experience of ING Bank’s internet banking and she also coordinated innovative digital campaigns for 3 years, making ING one of the most loved Romanian brands in social media. Catalina is also a UX trainer, mentor and advocate of design thinking approach. She leads the Women Techmakers Chapter by Google Developers Group in Romania and she is dedicated to developing and supporting the tech communities. She’s driven and curious.",
     "company" : "EA",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/ea.png",
     "country" : "Bucharest, Romania",
     "featured" : true,
     "id" : 6,
@@ -439,7 +439,7 @@
   }, {
     "bio" : "Victor is the co-organiser of GDG Bucharest and has been involved in the tech community for over four years. He's a Senior Android Developer, he has built several top apps (either consumer or enterprise oriented) and he also have a long background as a full-stack Java developer. In 2011 he co-founded Mobile Kinetics where they focus exclusively on native mobile applications on all major platforms.",
     "company" : "Mobile Kinetics",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/mobile_kinetics.png",
     "country" : "Bucharest, Romania",
     "featured" : false,
     "id" : 7,
@@ -464,7 +464,7 @@
   }, {
       "bio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
       "company" : "Zalando SE",
-      "companyLogo" : "",
+      "companyLogo" : "../images/logos/zalando.png",
       "country" : "Berlin, Germany",
       "featured" : true,
       "id" : 8,
@@ -485,7 +485,7 @@
     }, {
     "bio" : "Ana is an experienced developer, currently working on the Android Consumer Application at Deliveroo, UK’s fastest growing tech start-up. She is strongly focused on product quality, innovation and continuous learning. Fun fact about Ana: if you check her Deliveroo order history you'll see only sweets and a prawn that she ordered by mistake to a random address before the app was officially launched.",
     "company" : "Deliveroo",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/deliveroo.png",
     "country" : "London, UK",
     "featured" : true,
     "id" : 9,
@@ -506,7 +506,7 @@
   }, {
     "bio" : "Tomas is a Google Developer Expert on Google Cloud Platform and Dart. He is a partner in digital agency Multimedia atelier and founder of backend studio fnx.io. He has 20 years of experience in Java development and project management. He has created many successful applications and intends to create a lot more.",
     "company" : "fnx.io",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/fnx.png",
     "country" : "Prague, Czech Republic",
     "featured" : true,
     "id" : 10,
@@ -527,7 +527,7 @@
   }, {
     "bio" : "Andrei is a Customer Engineer at Google, helping customers in the CEE region adopt Google Cloud. Past experience include jobs as PreSales Consultant (at Oracle), Software Engineer in various industries (telecom, banking, retail). He also co-started several online projects, like gdocsopen.com (not involved in it anymore) and a few others, including a hardware product, focused on monitoring the indoor air quality.",
     "company" : "Google",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/google.jpg",
     "country" : "Bucuresti, Romania",
     "featured" : false,
     "id" : 11,
@@ -544,7 +544,7 @@
   }, {
     "bio" : "Magda is an enthusiastic and innovative Mobile Developer, with more than 7 years experience in software development also as a technical team leader and Scrum Master. She is happy to create an inspiring team environment with an open communication culture, to discover the team members’ training needs, to recognise and reward accomplishments and also to encourage creativity and risk-taking. Magda is also co-organiser at GDG Pitesti and Women Techmakers Romania.",
     "company" : "Roweb",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/roweb.jpg",
     "country" : "Pitesti, Romania",
     "featured" : false,
     "id" : 12,
@@ -565,7 +565,7 @@
   }, {
     "bio" : "Alin is a technology enthusiast and passionate about agile methodologies.  With 6 years of experience in software development and expertise in mobile & web applications, he has been involved in developing, testing and maintaining applications but also in managing small teams and optimising company's internal processes. Alin is also Co-organiser at GDG Pitesti and trainer at Scoala Informala de IT.",
     "company" : "Luxoft",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/luxoft.jpg",
     "country" : "Pitesti, Romania",
     "featured" : false,
     "id" : 13,
@@ -603,7 +603,7 @@
   }, {
     "bio" : "Cosmin is a full-stack software engineer and leads the team that develops native apps at the company he founded. He has joined the Android universe more than 7 years ago and his been passionate about creating mobile apps ever since. He believes great architecture and clean code are a must for an excelling product. He loves to travel.",
     "company" : "Silverbit Tech",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/silverbit.png",
     "country" : "Bucharest, Romania",
     "featured" : false,
     "id" : 15,
