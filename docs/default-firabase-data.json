@@ -347,7 +347,7 @@
   }, {
     "bio" : "With a working experience of 20 years, all spent in Information Technology areas, Felix had time to experience many industries in just as many roles. Starting with being a researcher in (quantitative aspects of) social sciences, going to being a developer for \"off the shelf\" software and later games, to being a solution consultant for major projects in big banks and telecom groups and to architecting and supervising development and operations for the services he co-authored as entrepreneur, services that ended up being market leaders in the territories where they are operated. In the spare time he is also teaching various topics, from fundamental web development techniques to machine learning and big data.",
     "company" : "Netopia",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/netopia.png",
     "country" : "Bucharest, Romania",
     "featured" : false,
     "id" : 3,
@@ -603,7 +603,7 @@
   }, {
     "bio" : "Cosmin is a full-stack software engineer and leads the team that develops native apps at the company he founded. He has joined the Android universe more than 7 years ago and his been passionate about creating mobile apps ever since. He believes great architecture and clean code are a must for an excelling product. He loves to travel.",
     "company" : "Silverbit Tech",
-    "companyLogo" : "../images/logos/silverbit.png",
+    "companyLogo" : "../images/logos/silverbit.jpg",
     "country" : "Bucharest, Romania",
     "featured" : false,
     "id" : 15,
