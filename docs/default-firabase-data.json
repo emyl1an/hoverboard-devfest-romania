@@ -42,45 +42,41 @@
       "sessions" : [ [ 202 ] ],
       "startTime" : "10:00"
     }, {
-      "endTime" : "11:00",
+      "endTime" : "10:50",
       "sessions" : [ [ 203 ] ],
       "startTime" : "10:15"
     }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 101 ], [ 121 ] ],
+      "endTime" : "11:45",
+      "sessions" : [ [ 101 ], [ 111 ], [ 121 ] ],
       "startTime" : "11:00"
     }, {
-      "endTime" : "12:30",
-      "sessions" : [ [ 102 ], [ 122 ] ],
-      "startTime" : "11:50"
+      "endTime" : "12:45",
+      "sessions" : [ [ 102 ], [ 112 ], [ 122 ] ],
+      "startTime" : "12:00"
     }, {
       "endTime" : "14:00",
       "sessions" : [ [ 204 ] ],
-      "startTime" : "12:30"
+      "startTime" : "12:45"
     }, {
-      "endTime" : "14:40",
-      "sessions" : [ [ 103 ], [ 123 ] ],
+      "endTime" : "14:45",
+      "sessions" : [ [ 103 ], [ 113 ], [ 123 ] ],
       "startTime" : "14:00"
     }, {
-      "endTime" : "15:30",
-      "sessions" : [ [ 104 ], [ 124 ] ],
-      "startTime" : "14:50"
+      "endTime" : "15:45",
+      "sessions" : [ [ 104 ], [ 114 ], [ 124 ] ],
+      "startTime" : "15:00"
     }, {
-      "endTime" : "16:00",
+      "endTime" : "16:15",
       "sessions" : [ [ 205 ] ],
-      "startTime" : "15:30"
+      "startTime" : "15:45"
     }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 105 ], [ 125 ] ],
-      "startTime" : "16:00"
+      "endTime" : "17:00",
+      "sessions" : [ [ 105 ], [ 115 ], [ 125 ] ],
+      "startTime" : "16:15"
     }, {
-      "endTime" : "17:30",
-      "sessions" : [ [ 106 ], [ 126 ] ],
-      "startTime" : "16:50"
-    }, {
-      "endTime" : "18:20",
-      "sessions" : [ [ 107 ], [ 127 ] ],
-      "startTime" : "17:40"
+      "endTime" : "18:00",
+      "sessions" : [ [ 106 ], [ 116 ], [ 126 ] ],
+      "startTime" : "17:15"
     }, {
       "endTime" : "22:30",
       "sessions" : [ [ 206 ] ],
@@ -90,6 +86,8 @@
       "title" : "Room 1"
     }, {
       "title" : "Room 2"
+    }, {
+      "title" : "Room 3"
     } ]
   } ],
   "sessions" : {
@@ -130,82 +128,123 @@
     },
     "101" : {
       "complexity" : "Intermediate",
-      "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
-      "id" : 101,
-      "language" : "English",
-      "presentation" : "https://www.slideshare.net/felixcrisan",
-      "speakers" : [ 3 ],
-      "tags" : [ "Cloud", "Web", "BigData" ],
-      "title" : "XRay into your user behavior data"
-    },
-    "121" : {
-      "description" : "React still continues to dominate a decent chunk of the frontend frameworks space. The team behind it is relentless in moving React forward, thus a new (currently in beta) implementation (complete, fully backwards compatible re-write) of the core algorithm was the next logical step. Fiber is what makes React faster and more powerful. In this talk we are going to take a dive into how Fiber works, how is it different and what can you do to use it and take advantage of the improvements it brings.",
-      "id" : 121,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 2 ],
-      "tags" : [ "Web" ],
-      "title" : "Breaking React apart Fiber by Fiber"
-    },
-    "102" : {
-      "complexity" : "Intermediate",
       "description" : "The presentation is about practices and tools for developing an app used by millions of people in multiple countries. It contains tips about choosing technologies, performance, code testing, A/B testing, user testing, app monitoring, release. The key takeaway would be how to tackle both product and technical challenges and release the app without being afraid something will go wrong.",
-      "id" : 102,
+      "id" : 101,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 9 ],
       "tags" : [ "Android" ],
       "title" : "Android best practices and tools when building for millions"
     },
-    "122" : {
-      "complexity" : "Beginner",
-      "description" : "Build your mobile application easier and with more visual freedom then ever before.",
-      "id" : 122,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 10 ],
-      "tags" : [ "Android" ],
-      "title" : "Flutter.io - new way to build your mobile application with single codebase for Android and iOS."
-    },
-    "103" : {
-      "complexity" : "Beginner",
-      "description" : "Google Cloud ML APIs",
-      "id" : 103,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 11 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Google Cloud ML APIs"
-    },
-    "123" : {
-      "complexity" : "Intermediate",
-      "description" : "In the talk we will review tips, tricks and actual examples of \"don’t make me think\" UX and of interfaces that wisely manipulate the mental workload in order to help users to achieve their goals.",
-      "id" : 123,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 4 ],
-      "tags" : [ "UX" ],
-      "title" : "Don't Make Me Think!"
-    },
-    "104" : {
+    "111" : {
       "complexity" : "Intermediate",
       "description" : "Animations are always exciting, in this presentation I'll show how much fun it is to create them with Angular",
-      "id" : 104,
+      "id" : 111,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 5 ],
       "tags" : [ "Web" ],
       "title" : "Animating with Angular"
     },
-    "124" : {
+    "121" : {
+      "complexity" : "Intermediate",
+      "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
+      "id" : 121,
+      "language" : "English",
+      "presentation" : "https://www.slideshare.net/felixcrisan",
+      "speakers" : [ 3 ],
+      "tags" : [ "Cloud", "Web", "BigData" ],
+      "title" : "XRay into your user behavior data"
+    },
+    "102" : {
+      "complexity" : "Intermediate",
+      "description" : "At Google I/O 2017, the Android team lunched Room Persistence Library, an SQLite object mapper. My presentation will be about how to use it in our code.",
+      "id" : 102,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "Android Room Persistence Library"
+    },
+    "112" : {
+      "complexity" : "Intermediate",
+      "description" : "Angular for Java developers",
+      "id" : 112,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 13 ],
+      "tags" : [ "Web" ],
+      "title" : "Angular for Java developers"
+    },
+    "122" : {
+      "complexity" : "Beginner",
+      "description" : "Google Cloud ML APIs",
+      "id" : 122,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 11 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Google Cloud ML APIs"
+    },
+    "103" : {
+      "complexity" : "Beginner",
+      "description" : "Build your mobile application easier and with more visual freedom then ever before.",
+      "id" : 103,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 10 ],
+      "tags" : [ "Android" ],
+      "title" : "Flutter.io - new way to build your mobile application with single codebase for Android and iOS."
+    },
+    "113" : {
+      "complexity" : "Intermediate",
+      "description" : "React still continues to dominate a decent chunk of the frontend frameworks space. The team behind it is relentless in moving React forward, thus a new (currently in beta) implementation (complete, fully backwards compatible re-write) of the core algorithm was the next logical step. Fiber is what makes React faster and more powerful. In this talk we are going to take a dive into how Fiber works, how is it different and what can you do to use it and take advantage of the improvements it brings.",
+      "id" : 113,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "Web" ],
+      "title" : "Breaking React apart Fiber by Fiber"
+    },
+    "123" : {
       "complexity" : "Intermediate",
       "description" : "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
-      "id" : 124,
+      "id" : 123,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 8 ],
       "tags" : [ "Cloud", "BigData" ],
       "title" : "Going API First on the Google Cloud with Connexion"
+    },
+    "104" : {
+      "complexity" : "Advanced",
+      "description" : "Description: An opinionated view on building sturdy, testable and scalable Android apps using the right architecture, based on MVVM, RxJava and DataBinding. We'll go into the details of our tried and tested approach to creating apps, from how data gets loaded and persisted to how it's prepared for the UI and how layouts are built, with a focus on how everything fits together. Motivation: Many developers have been focusing on getting things done quickly and with no regards to long-term maintenance and developing architectures that stand the test of time. However, there are ways in which apps can be built quickly, yet still have a solid architecture that's versatile and allows new features to be easily added. In our company, we've worked on a multitude of projects, from very small ones to huge ones that we're still maintaining years later and, in time, we've tested various architectures, patterns and frameworks. The goal of the presentation is to share our experiences and give details on the approach we've had best results with so far.",
+      "id" : 104,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 15 ],
+      "tags" : [ "Android" ],
+      "title" : "An Architecture-First approach to building apps"
+    },
+    "114" : {
+      "complexity" : "Intermediate",
+      "description" : "In the talk we will review tips, tricks and actual examples of \"don’t make me think\" UX and of interfaces that wisely manipulate the mental workload in order to help users to achieve their goals.",
+      "id" : 114,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 4 ],
+      "tags" : [ "UX" ],
+      "title" : "Don't Make Me Think!"
+    },
+    "124" : {
+      "complexity" : "Intermediate",
+      "description" : "The software industry is on the verge to change and new niches are appearing every day. Do you want to know what are the industry needs and how can you or your  company respond to them? Developing from top to bottom is not enough anymore. A new kind of developer is expected in 2018. Join Marius to find out who is that developer.",
+      "id" : 124,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" , "Machine Learning" ],
+      "title" : "Where to code next: machine learning, mixed reality, RPA, robotics? A down to earth advice from a Google Developer Expert."
     },
     "105" : {
       "description" : "TBA",
@@ -216,18 +255,37 @@
       "tags" : [],
       "title" : "TBA"
     },
-    "125" : {
+    "115" : {
       "description" : "TBA",
-      "id" : 125,
+      "id" : 115,
       "language" : "English",
       "presentation" : "",
       "speakers" : [],
       "tags" : [],
       "title" : "TBA"
     },
+    "125" : {
+      "complexity" : "Intermediate",
+      "description" : "Unite the benefits from what all cloud providers have to offer and create a global Kubernetes cluster that scales worldwide.",
+      "id" : 125,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 14 ],
+      "tags" : [ "Cloud" , "BigData" ],
+      "title" : "Run a cross-cloud Kubernetes cluster of clusters"
+    },
     "106" : {
       "description" : "TBA",
       "id" : 106,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
+    },
+    "116" : {
+      "description" : "TBA",
+      "id" : 116,
       "language" : "English",
       "presentation" : "",
       "speakers" : [],
@@ -242,30 +300,12 @@
       "speakers" : [],
       "tags" : [],
       "title" : "TBA"
-    },
-    "107" : {
-      "description" : "TBA",
-      "id" : 107,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
-    },
-    "127" : {
-      "description" : "TBA",
-      "id" : 127,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
     }
   },
   "speakers" : [ null, {
     "bio" : "Marius Mailat is the founder and chief Android expert at P3 digital services and since 2015 the first Google Developer Expert in Eastern Europe. Marius has a master's degree in Computer Science and has worked in the field of software development for over 18 years. As Chief Technical Officer of P3 digital services, great apps were created in record time and they are still fine examples of workmanship, handmade in Dusseldorf, Belgrade and Cluj-Napoca. He is an active Android trainer a frequent speaker on technical conferences and events. He trained over 500 developers on four continents for companies like Intel, Siemens, Real Networks, Cisco, Garmin and many more.",
     "company" : "P3 digital services",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/p3.png",
     "country" : "Cluj-Napoca, Romania",
     "featured" : true,
     "id" : 1,
@@ -307,7 +347,7 @@
   }, {
     "bio" : "With a working experience of 20 years, all spent in Information Technology areas, Felix had time to experience many industries in just as many roles. Starting with being a researcher in (quantitative aspects of) social sciences, going to being a developer for \"off the shelf\" software and later games, to being a solution consultant for major projects in big banks and telecom groups and to architecting and supervising development and operations for the services he co-authored as entrepreneur, services that ended up being market leaders in the territories where they are operated. In the spare time he is also teaching various topics, from fundamental web development techniques to machine learning and big data.",
     "company" : "Netopia",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/netopia.png",
     "country" : "Bucharest, Romania",
     "featured" : false,
     "id" : 3,
@@ -328,7 +368,7 @@
   }, {
     "bio" : "Shay Ben-Barak helps companies and startups to identify their users' needs and to cater for these needs relevant product-features with the best User eXperience!  He is running a small design boutique that is focusing on complex systems and on meaningful artifacts. Shay owns a master's degree in Cognitive Engineering from the Technion – Israel Institute of Technology and he is deeply involved in product management and UX design of digital products for almost two decades now. He also teaches UX design in the academy and evangelizes for ethical design practices.",
     "company" : "UXD",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/uxd.png",
     "country" : "Tel-Aviv, Israel",
     "featured" : false,
     "id" : 4,
@@ -349,7 +389,7 @@
   }, {
     "bio" : "Ciro is Google Developer Expert in Web Technologies, Lead Frontend Engineer at CrossEngage, former contributor to projects like AngularJS, Angular, Angular CLI and Karma. When he's not in the computer or in conferences he's practicing Brazilian Jiu Jitsu.",
     "company" : "CrossEngage",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/crossengage.png",
     "country" : "Berlin, Germany",
     "featured" : true,
     "id" : 5,
@@ -370,7 +410,7 @@
   }, {
     "bio" : "Catalina is a Google Developper Expert with an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. She's currently  part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. Previously, for 2 years, she was the person behind the experience of ING Bank’s internet banking and she also coordinated innovative digital campaigns for 3 years, making ING one of the most loved Romanian brands in social media. Catalina is also a UX trainer, mentor and advocate of design thinking approach. She leads the Women Techmakers Chapter by Google Developers Group in Romania and she is dedicated to developing and supporting the tech communities. She’s driven and curious.",
     "company" : "EA",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/ea.png",
     "country" : "Bucharest, Romania",
     "featured" : true,
     "id" : 6,
@@ -399,7 +439,7 @@
   }, {
     "bio" : "Victor is the co-organiser of GDG Bucharest and has been involved in the tech community for over four years. He's a Senior Android Developer, he has built several top apps (either consumer or enterprise oriented) and he also have a long background as a full-stack Java developer. In 2011 he co-founded Mobile Kinetics where they focus exclusively on native mobile applications on all major platforms.",
     "company" : "Mobile Kinetics",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/mobile_kinetics.png",
     "country" : "Bucharest, Romania",
     "featured" : false,
     "id" : 7,
@@ -424,7 +464,7 @@
   }, {
       "bio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
       "company" : "Zalando SE",
-      "companyLogo" : "",
+      "companyLogo" : "../images/logos/zalando.png",
       "country" : "Berlin, Germany",
       "featured" : true,
       "id" : 8,
@@ -445,7 +485,7 @@
     }, {
     "bio" : "Ana is an experienced developer, currently working on the Android Consumer Application at Deliveroo, UK’s fastest growing tech start-up. She is strongly focused on product quality, innovation and continuous learning. Fun fact about Ana: if you check her Deliveroo order history you'll see only sweets and a prawn that she ordered by mistake to a random address before the app was officially launched.",
     "company" : "Deliveroo",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/deliveroo.png",
     "country" : "London, UK",
     "featured" : true,
     "id" : 9,
@@ -466,7 +506,7 @@
   }, {
     "bio" : "Tomas is a Google Developer Expert on Google Cloud Platform and Dart. He is a partner in digital agency Multimedia atelier and founder of backend studio fnx.io. He has 20 years of experience in Java development and project management. He has created many successful applications and intends to create a lot more.",
     "company" : "fnx.io",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/fnx.png",
     "country" : "Prague, Czech Republic",
     "featured" : true,
     "id" : 10,
@@ -487,7 +527,7 @@
   }, {
     "bio" : "Andrei is a Customer Engineer at Google, helping customers in the CEE region adopt Google Cloud. Past experience include jobs as PreSales Consultant (at Oracle), Software Engineer in various industries (telecom, banking, retail). He also co-started several online projects, like gdocsopen.com (not involved in it anymore) and a few others, including a hardware product, focused on monitoring the indoor air quality.",
     "company" : "Google",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/google.jpg",
     "country" : "Bucuresti, Romania",
     "featured" : false,
     "id" : 11,
@@ -501,6 +541,82 @@
     } ],
     "tags" : [ "Cloud" ],
     "title" : "Customer Engineer"
+  }, {
+    "bio" : "Magda is an enthusiastic and innovative Mobile Developer, with more than 7 years experience in software development also as a technical team leader and Scrum Master. She is happy to create an inspiring team environment with an open communication culture, to discover the team members’ training needs, to recognise and reward accomplishments and also to encourage creativity and risk-taking. Magda is also co-organiser at GDG Pitesti and Women Techmakers Romania.",
+    "company" : "Roweb",
+    "companyLogo" : "../images/logos/roweb.jpg",
+    "country" : "Pitesti, Romania",
+    "featured" : false,
+    "id" : 12,
+    "name" : "Magda Miu",
+    "photoUrl" : "../images/people/magda_miu.jpg",
+    "shortBio" : "Magda is an enthusiastic and innovative Mobile Developer, with more than 7 years experience in software development also as a technical team leader and Scrum Master...",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "https://magdamiu.com/",
+      "name" : "Web"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/magdamiu/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Senior Android Developer and Team Leader"
+  }, {
+    "bio" : "Alin is a technology enthusiast and passionate about agile methodologies.  With 6 years of experience in software development and expertise in mobile & web applications, he has been involved in developing, testing and maintaining applications but also in managing small teams and optimising company's internal processes. Alin is also Co-organiser at GDG Pitesti and trainer at Scoala Informala de IT.",
+    "company" : "Luxoft",
+    "companyLogo" : "../images/logos/luxoft.jpg",
+    "country" : "Pitesti, Romania",
+    "featured" : false,
+    "id" : 13,
+    "name" : "Alin Miu",
+    "photoUrl" : "../images/people/alin_miu.jpg",
+    "shortBio" : "Alin is a technology enthusiast and passionate about agile methodologies.  With 6 years of experience in software development and expertise in mobile & web applications...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/miualinionut",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "website",
+      "link" : "https://alinmiu.com/",
+      "name" : "Web"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Senior Java Developer"
+  }, {
+    "bio" : "Marius launched NETBEARS almost 3 years ago, with one dream in mind: to build a team of experts trained to tackle any problem and implement the optimum solution which fits the client’s business processes. At the moment, he's a full-stack DevOps engineer with experience in making web applications scalable in NodeJS, PHP and Python. Although he's a SysAdmin at the core, using the various opportunities he had to code, he ve developed a programmer mindset and can now fully automate infrastructures or debug applications written in JS, PHP and Python.  Yes, he's the geek kind of company owner, extremely passionate about what he does and fully-dedicated to offering remarkable services and sustainable projects. ",
+    "company" : "NETBEARS",
+    "companyLogo" : "../images/logos/netbears.png",
+    "country" : "Iasi, Romania",
+    "featured" : false,
+    "id" : 14,
+    "name" : "Marius Mitrofan",
+    "photoUrl" : "../images/people/marius_mitrofan.jpg",
+    "shortBio" : "Marius launched NETBEARS almost 3 years ago, with one dream in mind: to build a team of experts trained to tackle any problem and implement the optimum solution which fits the client’s business processes...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/mariusmitrofan/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Cloud" , "BigData" ],
+    "title" : "Senior IT Consultant"
+  }, {
+    "bio" : "Cosmin is a full-stack software engineer and leads the team that develops native apps at the company he founded. He has joined the Android universe more than 7 years ago and his been passionate about creating mobile apps ever since. He believes great architecture and clean code are a must for an excelling product. He loves to travel.",
+    "company" : "Silverbit Tech",
+    "companyLogo" : "../images/logos/silverbit.jpg",
+    "country" : "Bucharest, Romania",
+    "featured" : false,
+    "id" : 15,
+    "name" : "Cosmin Stefan Dobrin",
+    "photoUrl" : "../images/people/cosmin_dobrin.jpg",
+    "shortBio" : "Cosmin is a full-stack software engineer and leads the team that develops native apps at the company he founded...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/cosmin.stefan",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Founder and Android Team Lead"
   }],
   "team" : [],
   "tickets" : {
