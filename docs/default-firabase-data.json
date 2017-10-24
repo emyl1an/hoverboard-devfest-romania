@@ -247,22 +247,24 @@
       "title" : "Where to code next: machine learning, mixed reality, RPA, robotics? A down to earth advice from a Google Developer Expert."
     },
     "105" : {
-      "description" : "TBA",
+      "complexity" : "Beginner",
+      "description" : "There are a lot of great tools for building Machine Learning applications but the basic theory may still be a barrier into starting you next ML project. We’re going to discuss the basic concepts of Neural Networks and Deep Learning and build our first network using Tensorflow",
       "id" : 105,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 7 ],
+      "tags" : [ "Cloud" , "Machine Learning" ],
+      "title" : "Introduction to Neural Networks and Tensorflow"
     },
     "115" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "Where does UX come in play in the developing great products? How do we plug and play UX? Where are we now with UX? What are the challenges the future brought already to UX? From lazy to AI. ",
       "id" : 115,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 6 ],
+      "tags" : [ "UX" ],
+      "title" : "The current and future state of UX."
     },
     "125" : {
       "complexity" : "Intermediate",
