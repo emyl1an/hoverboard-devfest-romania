@@ -38,6 +38,14 @@
       "logoUrl" : "../images/logos/thehack.png",
       "name" : "TheHack",
       "url" : "http://thehack.biz/"
+    }, {
+      "logoUrl" : "../images/logos/wink.png",
+      "name" : "Wink",
+      "url" : "http://wink.ro"
+    }, {
+      "logoUrl" : "../images/logos/beaglecat.jpg",
+      "name" : "Beaglecat",
+      "url" : "http://www.beaglecat.com"
     }],
     "title" : "Partners"
   } ],
