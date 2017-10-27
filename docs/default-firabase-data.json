@@ -8,16 +8,27 @@
     } ],
     "title" : "General Sponsor"
   }, {
+      "logos" : [ {
+        "logoUrl" : "../images/logos/appsbroker.png",
+        "name" : "Appsbroker",
+        "url" : "https://www.appsbroker.com/"
+      }, {
+        "logoUrl" : "../images/logos/cgm.png",
+        "name" : "CGM",
+        "url" : "https://www.cgm.com"
+      }],
+      "title" : "Platinum Sponsors"
+    }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/garanti_bank.svg",
       "name" : "Garanti Bank",
       "url" : "http://www.garantibank.ro/ro/#calcContent=UID5011577&calcContent2=UID9acb2c"
     }, {
-      "logoUrl" : "../images/logos/appsbroker.png",
-      "name" : "Appsbroker",
-      "url" : "https://www.appsbroker.com/"
+      "logoUrl" : "../images/logos/optymyze.png",
+      "name" : "Optymyze",
+      "url" : "http://optymyze.com/"
     }],
-    "title" : "Sponsors"
+    "title" : "Gold Sponsors"
   },{
     "logos" : [ {
       "logoUrl" : "../images/logos/codecamp.png",
@@ -27,6 +38,14 @@
       "logoUrl" : "../images/logos/thehack.png",
       "name" : "TheHack",
       "url" : "http://thehack.biz/"
+    }, {
+      "logoUrl" : "../images/logos/wink.png",
+      "name" : "Wink",
+      "url" : "http://wink.ro"
+    }, {
+      "logoUrl" : "../images/logos/beaglecat.jpg",
+      "name" : "Beaglecat",
+      "url" : "http://www.beaglecat.com"
     }],
     "title" : "Partners"
   } ],
