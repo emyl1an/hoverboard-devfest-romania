@@ -295,13 +295,14 @@
       "title" : "TBA"
     },
     "126" : {
-      "description" : "TBA",
+      "complexity" : "Beginner",
+      "description" : "Vision API",
       "id" : 126,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 16 ],
+      "tags" : [ "Cloud" , "Machine Learning" ],
+      "title" : "The wonders of Vision API"
     }
   },
   "speakers" : [ null, {
@@ -619,7 +620,24 @@
     } ],
     "tags" : [ "Android" ],
     "title" : "Founder and Android Team Lead"
-  }],
+  }, {
+      "bio" : "Probably the most entertaining Java Developer you've ever met. I’m into writing quality code, making pieces fit together and getting stuff done. One of my super secret powers is always keeping an eye on what makes people tick. I believe that workplace relationships and the feeling of ‘home’ is what keeps us going. My tendency to overanalyse actually helps me discover new things about the human mind (and my cat’s mind) and guides me and the people around me to become better persons.",
+      "company" : "Appsbroker",
+      "companyLogo" : "../images/logos/appsbroker_logo.png",
+      "country" : "Iasi, Romania",
+      "featured" : false,
+      "id" : 16,
+      "name" : "Ioana-Iulia Gosav",
+      "photoUrl" : "../images/people/ioana_gosav.jpg",
+      "shortBio" : "Probably the most entertaining Java Developer you've ever met...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ioana-iulia-gosav-48470276/",
+        "name" : "LinkedIn"
+      } ],
+      "tags" : [ "Cloud" ],
+      "title" : "Java Developer"
+    }],
   "team" : [],
   "tickets" : {
     "elements" : [ {
