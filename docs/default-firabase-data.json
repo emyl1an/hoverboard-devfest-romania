@@ -669,7 +669,7 @@
       "starts" : "Sep 1"
     }, {
       "currency" : "€",
-      "ends" : "Oct 31",
+      "ends" : "Nov 10",
       "info" : "Our first 200 tickets",
       "name" : "Early Bird",
       "price" : 50,
@@ -681,7 +681,7 @@
       "name" : "Lazy Bird",
       "price" : 75,
       "soldOut" : false,
-      "starts" : "Nov 1"
+      "starts" : "Nov 11"
     } ],
     "url" : "https://goo.gl/o65Pka"
   },
