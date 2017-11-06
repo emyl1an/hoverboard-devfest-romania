@@ -144,10 +144,10 @@
       "title" : "Coffee break"
     },
     "206" : {
-      "description" : "Afterparty is a great time to have some fun and meet new people",
+      "description" : "Event closing is a great time to have some fun and meet new people",
       "id" : 206,
       "image" : "/images/backgrounds/party.jpg",
-      "title" : "Afterparty & Networking"
+      "title" : "Event closing & Networking"
     },
     "101" : {
       "complexity" : "Intermediate",
