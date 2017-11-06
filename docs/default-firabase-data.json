@@ -319,13 +319,13 @@
     },
     "126" : {
       "complexity" : "Beginner",
-      "description" : "Vision API",
+      "description" : "In this presentation we will go throw the requirements for any aspiring Web game developer and how Firebase can remove the biggest hurdles in their path. We will focus on handling user identity, application logic without a concrete server and data storage in the most meaningful way. All of this will be accompanied by a live demo at the end and all the resources will be made available for any curious tinkerers. :)",
       "id" : 126,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 16 ],
-      "tags" : [ "Cloud" , "Machine Learning" ],
-      "title" : "The wonders of Vision API"
+      "tags" : [ "Cloud" , "Web" , "Gaming" ],
+      "title" : "Games forged in FIRE-wait for it-BASE"
     }
   },
   "speakers" : [ null, {
@@ -644,18 +644,18 @@
     "tags" : [ "Android" ],
     "title" : "Founder and Android Team Lead"
   }, {
-      "bio" : "Probably the most entertaining Java Developer you've ever met. I’m into writing quality code, making pieces fit together and getting stuff done. One of my super secret powers is always keeping an eye on what makes people tick. I believe that workplace relationships and the feeling of ‘home’ is what keeps us going. My tendency to overanalyse actually helps me discover new things about the human mind (and my cat’s mind) and guides me and the people around me to become better persons.",
+      "bio" : "Mihai is a passionate developer with interests ranging from mobile to web development. He is known to favor front end development but will not forgo any backend opportunities either.",
       "company" : "Appsbroker",
       "companyLogo" : "../images/logos/appsbroker_logo.png",
       "country" : "Iasi, Romania",
       "featured" : false,
       "id" : 16,
-      "name" : "Ioana-Iulia Gosav",
-      "photoUrl" : "../images/people/ioana_gosav.jpg",
-      "shortBio" : "Probably the most entertaining Java Developer you've ever met...",
+      "name" : "Mihai Pistol",
+      "photoUrl" : "../images/people/mihai_pistol.jpg",
+      "shortBio" : "He is known to favor front end development but will not forgo any backend opportunities either...",
       "socials" : [ {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/ioana-iulia-gosav-48470276/",
+        "link" : "https://www.linkedin.com/in/mihaipistol/",
         "name" : "LinkedIn"
       } ],
       "tags" : [ "Cloud" ],
