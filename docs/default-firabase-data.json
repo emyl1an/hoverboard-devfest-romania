@@ -300,22 +300,24 @@
       "title" : "Run a cross-cloud Kubernetes cluster of clusters"
     },
     "106" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "How we can use Angular to achieve complex Animations. We will cover Web Animations API and how we can use Angular together with field-tested animation techniques providing examples for CSS transitions/animations and SVG. We will also study browser compatibility and performance to achieve reliable and silky smooth animations. Let's bring our Angular skills to the awesome world of animations!",
       "id" : 106,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : [ 18 ],
+      "tags" : [ "Web" ],
+      "title" : "Angular Animations in-depth (v5+)"
     },
     "116" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "Event sourced systems have the potential to completely change the way we create software by solving old problems in new, more predictable and scalable ways. In order to have a successful implementation we do need to know some things about the general reasoning behind these types of architectures. What are the patterns used for event sourced applications, what are the pitfalls and what are the consequences of our design choices, these are some of the questions that will be answered during this presentation.",
       "id" : 116,
       "language" : "English",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "presentation" : "https://www.slideshare.net/RaduIscu/event-sourcing-3",
+      "speakers" : [ 17 ],
+      "tags" : [ "Web" , "Cloud", "BigData" ],
+      "title" : "The reasoning behind event sourced systems"
     },
     "126" : {
       "complexity" : "Beginner",
@@ -660,6 +662,48 @@
       } ],
       "tags" : [ "Cloud" ],
       "title" : "Java Developer"
+    }, {
+      "bio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software and its place in the modern world. He's interested in anything from embedded software to distributed systems. When he's not in front of a computer he also cares about biking, photography and art analysis.",
+      "company" : "Levi9",
+      "companyLogo" : "../images/logos/levi9.png",
+      "country" : "Iasi, Romania",
+      "featured" : false,
+      "id" : 17,
+      "name" : "Radu Iscu",
+      "photoUrl" : "../images/people/radu_iscu.jpg",
+      "shortBio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/radu-iscu-5599617/",
+        "name" : "LinkedIn"
+      } ],
+      "tags" : [ "Web" , "Cloud", "BigData" ],
+      "title" : "Solution Architect"
+    }, {
+      "bio" : "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.",
+      "company" : "Google",
+      "companyLogo" : "../images/logos/google.jpg",
+      "country" : "London, UK",
+      "featured" : false,
+      "id" : 18,
+      "name" : "Gerard Sans",
+      "photoUrl" : "../images/people/gerard_sans2.jpg",
+      "shortBio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/gerardsans",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/gsans",
+        "name" : "GitHub"
+      }, {
+        "icon" : "website",
+        "link" : " http://lanyrd.com/profile/gerardsans",
+        "name" : "Website"
+      }],
+      "tags" : [ "Web" , "Cloud" ],
+      "title" : "Angular Evangelist"
     }],
   "team" : [],
   "tickets" : {
