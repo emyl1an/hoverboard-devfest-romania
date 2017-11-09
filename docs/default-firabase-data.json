@@ -339,13 +339,13 @@
     },
     "106" : {
       "complexity" : "Intermediate",
-      "description" : "How we can use Angular to achieve complex Animations. We will cover Web Animations API and how we can use Angular together with field-tested animation techniques providing examples for CSS transitions/animations and SVG. We will also study browser compatibility and performance to achieve reliable and silky smooth animations. Let's bring our Angular skills to the awesome world of animations!",
+      "description" : "In this talk, we'll review all the exciting new features and present the changes included in the latest release of Angular. We will start the journey with important changes on previous versions, following changes in the Angular CLI and ending with version 5.",
       "id" : 106,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 18 ],
       "tags" : [ "Web" ],
-      "title" : "Angular Animations in-depth (v5+)"
+      "title" : "What's new in Angular v5?"
     },
     "116" : {
       "complexity" : "Intermediate",
