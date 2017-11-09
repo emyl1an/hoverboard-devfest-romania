@@ -8,11 +8,14 @@
     } ],
     "title" : "General Sponsor"
   }, {
-      "logos" : [ {
-        "logoUrl" : "../images/logos/appsbroker.png",
-        "name" : "Appsbroker",
-        "url" : "https://www.appsbroker.com/"
-      }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/appsbroker.png",
+      "name" : "Appsbroker",
+      "url" : "https://www.appsbroker.com/"
+    }],
+    "title" : "Diamond Sponsors"
+  }, {
+      "logos" : [{
         "logoUrl" : "../images/logos/cgm.png",
         "name" : "CGM",
         "url" : "https://www.cgm.com"
@@ -31,6 +34,10 @@
       "logoUrl" : "../images/logos/expert_network.png",
       "name" : "Expert Network",
       "url" : "http://www.expertnetwork.be/"
+    }, {
+      "logoUrl" : "../images/logos/p3_logo.png",
+      "name" : "P3 Digital Services",
+      "url" : "http://www.p3-ds.com/"
     }],
     "title" : "Gold Sponsors"
   },{
@@ -52,7 +59,38 @@
       "url" : "http://www.beaglecat.com"
     }],
     "title" : "Partners"
-  } ],
+  } ,{
+    "logos" : [ {
+      "logoUrl" : "../images/logos/gdg_romania.png",
+      "name" : "GDG Romania",
+      "url" : "https://www.facebook.com/GDGRomania/"
+    }, {
+      "logoUrl" : "../images/logos/gdg_iasi.png",
+      "name" : "GDG Iasi",
+      "url" : "https://www.facebook.com/gdg.iasi/"
+    }, {
+      "logoUrl" : "../images/logos/gdg_bucharest.png",
+      "name" : "GDG Bucharest",
+      "url" : "https://www.facebook.com/gdg.bucharest/"
+    }, {
+      "logoUrl" : "../images/logos/gdg_pitesti.png",
+      "name" : "GDG Pitesti",
+      "url" : "https://www.facebook.com/gdgpitesti/"
+    }, {
+      "logoUrl" : "../images/logos/gdg_cluj.png",
+      "name" : "GDG Cluj-Napoca",
+      "url" : "https://www.facebook.com/gdgcluj/"
+    }, {
+      "logoUrl" : "../images/logos/gdg_timisoara.png",
+      "name" : "GDG Timisoara",
+      "url" : "https://www.facebook.com/gdgtimisoara/"
+    }, {
+      "logoUrl" : "../images/logos/wtm_ro.png",
+      "name" : "WTM Romania",
+      "url" : "https://www.facebook.com/WTMRomania/"
+    }],
+    "title" : "Organisers"
+  }],
   "schedule" : [ {
     "date" : "2017-11-17",
     "dateReadable" : "November 17",
@@ -438,7 +476,7 @@
   }, {
     "bio" : "Catalina is a Google Developper Expert with an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. She's currently  part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. Previously, for 2 years, she was the person behind the experience of ING Bank’s internet banking and she also coordinated innovative digital campaigns for 3 years, making ING one of the most loved Romanian brands in social media. Catalina is also a UX trainer, mentor and advocate of design thinking approach. She leads the Women Techmakers Chapter by Google Developers Group in Romania and she is dedicated to developing and supporting the tech communities. She’s driven and curious.",
     "company" : "EA",
-    "companyLogo" : "../images/logos/ea.png",
+    "companyLogo" : "../images/logos/gde.png",
     "country" : "Bucharest, Romania",
     "featured" : true,
     "id" : 6,
@@ -612,7 +650,7 @@
     "tags" : [ "Web" ],
     "title" : "Senior Java Developer"
   }, {
-    "bio" : "Marius launched NETBEARS almost 3 years ago, with one dream in mind: to build a team of experts trained to tackle any problem and implement the optimum solution which fits the client’s business processes. At the moment, he's a full-stack DevOps engineer with experience in making web applications scalable in NodeJS, PHP and Python. Although he's a SysAdmin at the core, using the various opportunities he had to code, he ve developed a programmer mindset and can now fully automate infrastructures or debug applications written in JS, PHP and Python.  Yes, he's the geek kind of company owner, extremely passionate about what he does and fully-dedicated to offering remarkable services and sustainable projects. ",
+    "bio" : "Marius launched NETBEARS almost 3 years ago, with one dream in mind: to build a team of experts trained to tackle any problem and implement the optimum solution which fits the client’s business processes. At the moment, he's a full-stack DevOps engineer with experience in making web applications scalable in NodeJS, PHP and Python. Although he's a SysAdmin at the core, using the various opportunities he had to code, he has developed a programmer mindset and can now fully automate infrastructures or debug applications written in JS, PHP and Python.  Yes, he's the geek kind of company owner, extremely passionate about what he does and fully-dedicated to offering remarkable services and sustainable projects. ",
     "company" : "NETBEARS",
     "companyLogo" : "../images/logos/netbears.png",
     "country" : "Iasi, Romania",
@@ -654,7 +692,7 @@
       "id" : 16,
       "name" : "Mihai Pistol",
       "photoUrl" : "../images/people/mihai_pistol.jpg",
-      "shortBio" : "He is known to favor front end development but will not forgo any backend opportunities either...",
+      "shortBio" : "Mihai is a passionate developer with interests ranging from mobile to web development. He is known to favor front end development but will not forgo any backend opportunities either.",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/mihaipistol/",
@@ -682,13 +720,13 @@
     }, {
       "bio" : "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.",
       "company" : "Google",
-      "companyLogo" : "../images/logos/google.jpg",
+      "companyLogo" : "../images/logos/gde.png",
       "country" : "London, UK",
       "featured" : false,
       "id" : 18,
       "name" : "Gerard Sans",
       "photoUrl" : "../images/people/gerard_sans2.jpg",
-      "shortBio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software...",
+      "shortBio" : "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/gerardsans",
@@ -702,7 +740,7 @@
         "link" : " http://lanyrd.com/profile/gerardsans",
         "name" : "Website"
       }],
-      "tags" : [ "Web" , "Cloud" ],
+      "tags" : [ "Web"],
       "title" : "Angular Evangelist"
     }],
   "team" : [],
