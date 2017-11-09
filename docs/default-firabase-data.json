@@ -59,6 +59,13 @@
       "url" : "http://www.beaglecat.com"
     }],
     "title" : "Partners"
+  },{
+    "logos" : [ {
+      "logoUrl" : "../images/logos/active_life.png",
+      "name" : "Active Life",
+      "url" : "http://www.activelife.ro"
+    }],
+    "title" : "Wellness"
   } ,{
     "logos" : [ {
       "logoUrl" : "../images/logos/gdg_romania.png",
