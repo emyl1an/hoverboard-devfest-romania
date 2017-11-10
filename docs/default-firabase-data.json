@@ -122,33 +122,33 @@
       "sessions" : [ [ 102 ], [ 112 ], [ 122 ] ],
       "startTime" : "12:00"
     }, {
-      "endTime" : "14:00",
+      "endTime" : "13:30",
       "sessions" : [ [ 204 ] ],
       "startTime" : "12:45"
     }, {
-      "endTime" : "14:45",
+      "endTime" : "14:15",
       "sessions" : [ [ 103 ], [ 113 ], [ 123 ] ],
-      "startTime" : "14:00"
+      "startTime" : "13:30"
+    }, {
+      "endTime" : "15:15",
+      "sessions" : [ [ 104 ], [ 114 ], [ 124 ] ],
+      "startTime" : "14:30"
     }, {
       "endTime" : "15:45",
-      "sessions" : [ [ 104 ], [ 114 ], [ 124 ] ],
-      "startTime" : "15:00"
-    }, {
-      "endTime" : "16:15",
       "sessions" : [ [ 205 ] ],
+      "startTime" : "15:15"
+    }, {
+      "endTime" : "16:30",
+      "sessions" : [ [ 105 ], [ 115 ], [ 125 ] ],
       "startTime" : "15:45"
     }, {
-      "endTime" : "17:00",
-      "sessions" : [ [ 105 ], [ 115 ], [ 125 ] ],
-      "startTime" : "16:15"
-    }, {
-      "endTime" : "18:00",
+      "endTime" : "17:30",
       "sessions" : [ [ 106 ], [ 116 ], [ 126 ] ],
-      "startTime" : "17:15"
+      "startTime" : "16:45"
     }, {
-      "endTime" : "22:30",
+      "endTime" : "19:30",
       "sessions" : [ [ 206 ] ],
-      "startTime" : "18:30"
+      "startTime" : "18:00"
     }  ],
     "tracks" : [ {
       "title" : "Room 1"
@@ -204,30 +204,30 @@
       "tags" : [ "Android" ],
       "title" : "Android best practices and tools when building for millions"
     },
-    "111" : {
+    "116" : {
       "complexity" : "Intermediate",
       "description" : "Animations are always exciting, in this presentation I'll show how much fun it is to create them with Angular",
-      "id" : 111,
+      "id" : 116,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 5 ],
       "tags" : [ "Web" ],
       "title" : "Animating with Angular"
     },
-    "121" : {
+    "126" : {
       "complexity" : "Intermediate",
       "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
-      "id" : 121,
+      "id" : 126,
       "language" : "English",
       "presentation" : "https://www.slideshare.net/felixcrisan",
       "speakers" : [ 3 ],
       "tags" : [ "Cloud", "Web", "BigData" ],
       "title" : "XRay into your user behavior data"
     },
-    "102" : {
+    "103" : {
       "complexity" : "Intermediate",
       "description" : "At Google I/O 2017, the Android team lunched Room Persistence Library, an SQLite object mapper. My presentation will be about how to use it in our code.",
-      "id" : 102,
+      "id" : 103,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 12 ],
@@ -244,20 +244,20 @@
       "tags" : [ "Web" ],
       "title" : "Angular for Java developers"
     },
-    "122" : {
+    "125" : {
       "complexity" : "Beginner",
       "description" : "Google Cloud ML APIs",
-      "id" : 122,
+      "id" : 125,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 11 ],
       "tags" : [ "Cloud" ],
       "title" : "Google Cloud ML APIs"
     },
-    "103" : {
+    "105" : {
       "complexity" : "Beginner",
       "description" : "Build your mobile application easier and with more visual freedom then ever before.",
-      "id" : 103,
+      "id" : 105,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 10 ],
@@ -274,100 +274,100 @@
       "tags" : [ "Web" ],
       "title" : "Breaking React apart Fiber by Fiber"
     },
-    "123" : {
+    "122" : {
       "complexity" : "Intermediate",
       "description" : "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
-      "id" : 123,
+      "id" : 122,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 8 ],
       "tags" : [ "Cloud", "BigData" ],
       "title" : "Going API First on the Google Cloud with Connexion"
     },
-    "104" : {
+    "102" : {
       "complexity" : "Advanced",
       "description" : "Description: An opinionated view on building sturdy, testable and scalable Android apps using the right architecture, based on MVVM, RxJava and DataBinding. We'll go into the details of our tried and tested approach to creating apps, from how data gets loaded and persisted to how it's prepared for the UI and how layouts are built, with a focus on how everything fits together. Motivation: Many developers have been focusing on getting things done quickly and with no regards to long-term maintenance and developing architectures that stand the test of time. However, there are ways in which apps can be built quickly, yet still have a solid architecture that's versatile and allows new features to be easily added. In our company, we've worked on a multitude of projects, from very small ones to huge ones that we're still maintaining years later and, in time, we've tested various architectures, patterns and frameworks. The goal of the presentation is to share our experiences and give details on the approach we've had best results with so far.",
-      "id" : 104,
+      "id" : 102,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 15 ],
       "tags" : [ "Android" ],
       "title" : "An Architecture-First approach to building apps"
     },
-    "114" : {
+    "115" : {
       "complexity" : "Intermediate",
       "description" : "In the talk we will review tips, tricks and actual examples of \"don’t make me think\" UX and of interfaces that wisely manipulate the mental workload in order to help users to achieve their goals.",
-      "id" : 114,
+      "id" : 115,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 4 ],
       "tags" : [ "UX" ],
       "title" : "Don't Make Me Think!"
     },
-    "124" : {
+    "106" : {
       "complexity" : "Intermediate",
       "description" : "The software industry is on the verge to change and new niches are appearing every day. Do you want to know what are the industry needs and how can you or your  company respond to them? Developing from top to bottom is not enough anymore. A new kind of developer is expected in 2018. Join Marius to find out who is that developer.",
-      "id" : 124,
+      "id" : 106,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 1 ],
       "tags" : [ "Cloud" , "Machine Learning" ],
       "title" : "Where to code next: machine learning, mixed reality, RPA, robotics? A down to earth advice from a Google Developer Expert."
     },
-    "105" : {
+    "123" : {
       "complexity" : "Beginner",
       "description" : "There are a lot of great tools for building Machine Learning applications but the basic theory may still be a barrier into starting you next ML project. We’re going to discuss the basic concepts of Neural Networks and Deep Learning and build our first network using Tensorflow",
-      "id" : 105,
+      "id" : 123,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 7 ],
       "tags" : [ "Cloud" , "Machine Learning" ],
       "title" : "Introduction to Neural Networks and Tensorflow"
     },
-    "115" : {
+    "114" : {
       "complexity" : "Intermediate",
       "description" : "Where does UX come in play in the developing great products? How do we plug and play UX? Where are we now with UX? What are the challenges the future brought already to UX? From lazy to AI. ",
-      "id" : 115,
+      "id" : 114,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 6 ],
       "tags" : [ "UX" ],
       "title" : "The current and future state of UX"
     },
-    "125" : {
+    "124" : {
       "complexity" : "Intermediate",
       "description" : "Unite the benefits from what all cloud providers have to offer and create a global Kubernetes cluster that scales worldwide.",
-      "id" : 125,
+      "id" : 124,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 14 ],
       "tags" : [ "Cloud" , "BigData" ],
       "title" : "Run a cross-cloud Kubernetes cluster of clusters"
     },
-    "106" : {
+    "111" : {
       "complexity" : "Intermediate",
       "description" : "In this talk, we'll review all the exciting new features and present the changes included in the latest release of Angular. We will start the journey with important changes on previous versions, following changes in the Angular CLI and ending with version 5.",
-      "id" : 106,
+      "id" : 111,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 18 ],
       "tags" : [ "Web" ],
       "title" : "What's new in Angular v5?"
     },
-    "116" : {
+    "121" : {
       "complexity" : "Intermediate",
       "description" : "Event sourced systems have the potential to completely change the way we create software by solving old problems in new, more predictable and scalable ways. In order to have a successful implementation we do need to know some things about the general reasoning behind these types of architectures. What are the patterns used for event sourced applications, what are the pitfalls and what are the consequences of our design choices, these are some of the questions that will be answered during this presentation.",
-      "id" : 116,
+      "id" : 121,
       "language" : "English",
       "presentation" : "https://www.slideshare.net/RaduIscu/event-sourcing-3",
       "speakers" : [ 17 ],
       "tags" : [ "Web" , "Cloud", "BigData" ],
       "title" : "The reasoning behind event sourced systems"
     },
-    "126" : {
+    "104" : {
       "complexity" : "Beginner",
       "description" : "In this presentation we will go throw the requirements for any aspiring Web game developer and how Firebase can remove the biggest hurdles in their path. We will focus on handling user identity, application logic without a concrete server and data storage in the most meaningful way. All of this will be accompanied by a live demo at the end and all the resources will be made available for any curious tinkerers. :)",
-      "id" : 126,
+      "id" : 104,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 16 ],
