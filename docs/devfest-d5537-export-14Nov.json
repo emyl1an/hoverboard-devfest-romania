@@ -12,16 +12,16 @@
       "logoUrl" : "../images/logos/appsbroker.png",
       "name" : "Appsbroker",
       "url" : "https://www.appsbroker.com/"
-    }],
+    } ],
     "title" : "Diamond Sponsors"
   }, {
-      "logos" : [{
-        "logoUrl" : "../images/logos/cgm.png",
-        "name" : "CGM",
-        "url" : "https://www.cgm.com"
-      }],
-      "title" : "Platinum Sponsors"
-    }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/cgm.png",
+      "name" : "CGM",
+      "url" : "https://www.cgm.com"
+    } ],
+    "title" : "Platinum Sponsors"
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/garanti_bank.svg",
       "name" : "Garanti Bank",
@@ -38,9 +38,9 @@
       "logoUrl" : "../images/logos/p3_logo.png",
       "name" : "P3 Digital Services",
       "url" : "http://www.p3-ds.com/"
-    }],
+    } ],
     "title" : "Gold Sponsors"
-  },{
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/codecamp.png",
       "name" : "Codecamp",
@@ -57,16 +57,16 @@
       "logoUrl" : "../images/logos/beaglecat.jpg",
       "name" : "Beaglecat",
       "url" : "http://www.beaglecat.com"
-    }],
+    } ],
     "title" : "Partners"
-  },{
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/active_life.png",
       "name" : "Active Life",
       "url" : "http://www.activelife.ro"
-    }],
+    } ],
     "title" : "Wellness"
-  } ,{
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/gdg_romania.png",
       "name" : "GDG Romania",
@@ -95,9 +95,9 @@
       "logoUrl" : "../images/logos/wtm_ro.png",
       "name" : "WTM Romania",
       "url" : "https://www.facebook.com/WTMRomania/"
-    }],
+    } ],
     "title" : "Organisers"
-  }],
+  } ],
   "schedule" : [ {
     "date" : "2017-11-17",
     "dateReadable" : "November 17",
@@ -149,7 +149,7 @@
       "endTime" : "19:30",
       "sessions" : [ [ 206 ] ],
       "startTime" : "18:00"
-    }  ],
+    } ],
     "tracks" : [ {
       "title" : "Room 1"
     }, {
@@ -159,6 +159,186 @@
     } ]
   } ],
   "sessions" : {
+    "101" : {
+      "complexity" : "Intermediate",
+      "description" : "The presentation is about practices and tools for developing an app used by millions of people in multiple countries. It contains tips about choosing technologies, performance, code testing, A/B testing, user testing, app monitoring, release. The key takeaway would be how to tackle both product and technical challenges and release the app without being afraid something will go wrong.",
+      "id" : 101,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 9 ],
+      "tags" : [ "Android" ],
+      "title" : "Android best practices and tools when building for millions"
+    },
+    "102" : {
+      "complexity" : "Advanced",
+      "description" : "Description: An opinionated view on building sturdy, testable and scalable Android apps using the right architecture, based on MVVM, RxJava and DataBinding. We'll go into the details of our tried and tested approach to creating apps, from how data gets loaded and persisted to how it's prepared for the UI and how layouts are built, with a focus on how everything fits together. Motivation: Many developers have been focusing on getting things done quickly and with no regards to long-term maintenance and developing architectures that stand the test of time. However, there are ways in which apps can be built quickly, yet still have a solid architecture that's versatile and allows new features to be easily added. In our company, we've worked on a multitude of projects, from very small ones to huge ones that we're still maintaining years later and, in time, we've tested various architectures, patterns and frameworks. The goal of the presentation is to share our experiences and give details on the approach we've had best results with so far.",
+      "id" : 102,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 15 ],
+      "tags" : [ "Android" ],
+      "title" : "An Architecture-First approach to building apps"
+    },
+    "103" : {
+      "complexity" : "Intermediate",
+      "description" : "At Google I/O 2017, the Android team lunched Room Persistence Library, an SQLite object mapper. My presentation will be about how to use it in our code.",
+      "id" : 103,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "Android Room Persistence Library"
+    },
+    "104" : {
+      "complexity" : "Beginner",
+      "description" : "In this presentation we will go throw the requirements for any aspiring Web game developer and how Firebase can remove the biggest hurdles in their path. We will focus on handling user identity, application logic without a concrete server and data storage in the most meaningful way. All of this will be accompanied by a live demo at the end and all the resources will be made available for any curious tinkerers. :)",
+      "id" : 104,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 16 ],
+      "tags" : [ "Cloud", "Web", "Gaming" ],
+      "title" : "Games forged in FIRE-wait for it-BASE"
+    },
+    "105" : {
+      "complexity" : "Beginner",
+      "description" : "Build your mobile application easier and with more visual freedom then ever before.",
+      "id" : 105,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 10 ],
+      "tags" : [ "Android" ],
+      "title" : "Flutter.io - new way to build your mobile application with single codebase for Android and iOS."
+    },
+    "106" : {
+      "complexity" : "Intermediate",
+      "description" : "The software industry is on the verge to change and new niches are appearing every day. Do you want to know what are the industry needs and how can you or your  company respond to them? Developing from top to bottom is not enough anymore. A new kind of developer is expected in 2018. Join Marius to find out who is that developer.",
+      "id" : 106,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud", "Machine Learning" ],
+      "title" : "Where to code next: machine learning, mixed reality, RPA, robotics? A down to earth advice from a Google Developer Expert."
+    },
+    "111" : {
+      "complexity" : "Intermediate",
+      "description" : "In this talk, we'll review all the exciting new features and present the changes included in the latest release of Angular. We will start the journey with important changes on previous versions, following changes in the Angular CLI and ending with version 5.",
+      "id" : 111,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 18 ],
+      "tags" : [ "Web" ],
+      "title" : "What's new in Angular v5?"
+    },
+    "112" : {
+      "complexity" : "Intermediate",
+      "description" : "Angular for Java developers",
+      "id" : 112,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 13 ],
+      "tags" : [ "Web" ],
+      "title" : "Angular for Java developers"
+    },
+    "113" : {
+      "complexity" : "Intermediate",
+      "description" : "React still continues to dominate a decent chunk of the frontend frameworks space. The team behind it is relentless in moving React forward, thus a new (currently in beta) implementation (complete, fully backwards compatible re-write) of the core algorithm was the next logical step. Fiber is what makes React faster and more powerful. In this talk we are going to take a dive into how Fiber works, how is it different and what can you do to use it and take advantage of the improvements it brings.",
+      "id" : 113,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "Web" ],
+      "title" : "Breaking React apart Fiber by Fiber"
+    },
+    "114" : {
+      "complexity" : "Intermediate",
+      "description" : "Where does UX come in play in the developing great products? How do we plug and play UX? Where are we now with UX? What are the challenges the future brought already to UX? From lazy to AI. ",
+      "id" : 114,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 6 ],
+      "tags" : [ "UX" ],
+      "title" : "The current and future state of UX"
+    },
+    "115" : {
+      "complexity" : "Intermediate",
+      "description" : "In the talk we will review tips, tricks and actual examples of \"don’t make me think\" UX and of interfaces that wisely manipulate the mental workload in order to help users to achieve their goals.",
+      "id" : 115,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 4 ],
+      "tags" : [ "UX" ],
+      "title" : "Don't Make Me Think!"
+    },
+    "116" : {
+      "complexity" : "Intermediate",
+      "description" : "Animations are always exciting, in this presentation I'll show how much fun it is to create them with Angular",
+      "id" : 116,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 5 ],
+      "tags" : [ "Web" ],
+      "title" : "Animating with Angular"
+    },
+    "121" : {
+      "complexity" : "Intermediate",
+      "description" : "Event sourced systems have the potential to completely change the way we create software by solving old problems in new, more predictable and scalable ways. In order to have a successful implementation we do need to know some things about the general reasoning behind these types of architectures. What are the patterns used for event sourced applications, what are the pitfalls and what are the consequences of our design choices, these are some of the questions that will be answered during this presentation.",
+      "id" : 121,
+      "language" : "English",
+      "presentation" : "https://www.slideshare.net/RaduIscu/event-sourcing-3",
+      "speakers" : [ 17 ],
+      "tags" : [ "Web", "Cloud", "BigData" ],
+      "title" : "The reasoning behind event sourced systems"
+    },
+    "122" : {
+      "complexity" : "Intermediate",
+      "description" : "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
+      "id" : 122,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 8 ],
+      "tags" : [ "Cloud", "BigData" ],
+      "title" : "Going API First on the Google Cloud with Connexion"
+    },
+    "123" : {
+      "complexity" : "Beginner",
+      "description" : "There are a lot of great tools for building Machine Learning applications but the basic theory may still be a barrier into starting you next ML project. We’re going to discuss the basic concepts of Neural Networks and Deep Learning and build our first network using Tensorflow",
+      "id" : 123,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "Cloud", "Machine Learning" ],
+      "title" : "Introduction to Neural Networks and Tensorflow"
+    },
+    "124" : {
+      "complexity" : "Intermediate",
+      "description" : "Unite the benefits from what all cloud providers have to offer and create a global Kubernetes cluster that scales worldwide.",
+      "id" : 124,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 14 ],
+      "tags" : [ "Cloud", "BigData" ],
+      "title" : "Run a cross-cloud Kubernetes cluster of clusters"
+    },
+    "125" : {
+      "complexity" : "Beginner",
+      "description" : "Google Cloud ML APIs",
+      "id" : 125,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 11 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Google Cloud ML APIs"
+    },
+    "126" : {
+      "complexity" : "Intermediate",
+      "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
+      "id" : 126,
+      "language" : "English",
+      "presentation" : "https://www.slideshare.net/felixcrisan",
+      "speakers" : [ 3 ],
+      "tags" : [ "Cloud", "Web", "BigData" ],
+      "title" : "XRay into your user behavior data"
+    },
     "201" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
       "id" : 201,
@@ -193,192 +373,12 @@
       "id" : 206,
       "image" : "/images/backgrounds/party.jpg",
       "title" : "Event closing & Networking"
-    },
-    "101" : {
-      "complexity" : "Intermediate",
-      "description" : "The presentation is about practices and tools for developing an app used by millions of people in multiple countries. It contains tips about choosing technologies, performance, code testing, A/B testing, user testing, app monitoring, release. The key takeaway would be how to tackle both product and technical challenges and release the app without being afraid something will go wrong.",
-      "id" : 101,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 9 ],
-      "tags" : [ "Android" ],
-      "title" : "Android best practices and tools when building for millions"
-    },
-    "116" : {
-      "complexity" : "Intermediate",
-      "description" : "Animations are always exciting, in this presentation I'll show how much fun it is to create them with Angular",
-      "id" : 116,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 5 ],
-      "tags" : [ "Web" ],
-      "title" : "Animating with Angular"
-    },
-    "126" : {
-      "complexity" : "Intermediate",
-      "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
-      "id" : 126,
-      "language" : "English",
-      "presentation" : "https://www.slideshare.net/felixcrisan",
-      "speakers" : [ 3 ],
-      "tags" : [ "Cloud", "Web", "BigData" ],
-      "title" : "XRay into your user behavior data"
-    },
-    "103" : {
-      "complexity" : "Intermediate",
-      "description" : "At Google I/O 2017, the Android team lunched Room Persistence Library, an SQLite object mapper. My presentation will be about how to use it in our code.",
-      "id" : 103,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
-      "title" : "Android Room Persistence Library"
-    },
-    "112" : {
-      "complexity" : "Intermediate",
-      "description" : "Angular for Java developers",
-      "id" : 112,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 13 ],
-      "tags" : [ "Web" ],
-      "title" : "Angular for Java developers"
-    },
-    "125" : {
-      "complexity" : "Beginner",
-      "description" : "Google Cloud ML APIs",
-      "id" : 125,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 11 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Google Cloud ML APIs"
-    },
-    "105" : {
-      "complexity" : "Beginner",
-      "description" : "Build your mobile application easier and with more visual freedom then ever before.",
-      "id" : 105,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 10 ],
-      "tags" : [ "Android" ],
-      "title" : "Flutter.io - new way to build your mobile application with single codebase for Android and iOS."
-    },
-    "113" : {
-      "complexity" : "Intermediate",
-      "description" : "React still continues to dominate a decent chunk of the frontend frameworks space. The team behind it is relentless in moving React forward, thus a new (currently in beta) implementation (complete, fully backwards compatible re-write) of the core algorithm was the next logical step. Fiber is what makes React faster and more powerful. In this talk we are going to take a dive into how Fiber works, how is it different and what can you do to use it and take advantage of the improvements it brings.",
-      "id" : 113,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 2 ],
-      "tags" : [ "Web" ],
-      "title" : "Breaking React apart Fiber by Fiber"
-    },
-    "122" : {
-      "complexity" : "Intermediate",
-      "description" : "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
-      "id" : 122,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 8 ],
-      "tags" : [ "Cloud", "BigData" ],
-      "title" : "Going API First on the Google Cloud with Connexion"
-    },
-    "102" : {
-      "complexity" : "Advanced",
-      "description" : "Description: An opinionated view on building sturdy, testable and scalable Android apps using the right architecture, based on MVVM, RxJava and DataBinding. We'll go into the details of our tried and tested approach to creating apps, from how data gets loaded and persisted to how it's prepared for the UI and how layouts are built, with a focus on how everything fits together. Motivation: Many developers have been focusing on getting things done quickly and with no regards to long-term maintenance and developing architectures that stand the test of time. However, there are ways in which apps can be built quickly, yet still have a solid architecture that's versatile and allows new features to be easily added. In our company, we've worked on a multitude of projects, from very small ones to huge ones that we're still maintaining years later and, in time, we've tested various architectures, patterns and frameworks. The goal of the presentation is to share our experiences and give details on the approach we've had best results with so far.",
-      "id" : 102,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 15 ],
-      "tags" : [ "Android" ],
-      "title" : "An Architecture-First approach to building apps"
-    },
-    "115" : {
-      "complexity" : "Intermediate",
-      "description" : "In the talk we will review tips, tricks and actual examples of \"don’t make me think\" UX and of interfaces that wisely manipulate the mental workload in order to help users to achieve their goals.",
-      "id" : 115,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 4 ],
-      "tags" : [ "UX" ],
-      "title" : "Don't Make Me Think!"
-    },
-    "106" : {
-      "complexity" : "Intermediate",
-      "description" : "The software industry is on the verge to change and new niches are appearing every day. Do you want to know what are the industry needs and how can you or your  company respond to them? Developing from top to bottom is not enough anymore. A new kind of developer is expected in 2018. Join Marius to find out who is that developer.",
-      "id" : 106,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 1 ],
-      "tags" : [ "Cloud" , "Machine Learning" ],
-      "title" : "Where to code next: machine learning, mixed reality, RPA, robotics? A down to earth advice from a Google Developer Expert."
-    },
-    "123" : {
-      "complexity" : "Beginner",
-      "description" : "There are a lot of great tools for building Machine Learning applications but the basic theory may still be a barrier into starting you next ML project. We’re going to discuss the basic concepts of Neural Networks and Deep Learning and build our first network using Tensorflow",
-      "id" : 123,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 7 ],
-      "tags" : [ "Cloud" , "Machine Learning" ],
-      "title" : "Introduction to Neural Networks and Tensorflow"
-    },
-    "114" : {
-      "complexity" : "Intermediate",
-      "description" : "Where does UX come in play in the developing great products? How do we plug and play UX? Where are we now with UX? What are the challenges the future brought already to UX? From lazy to AI. ",
-      "id" : 114,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 6 ],
-      "tags" : [ "UX" ],
-      "title" : "The current and future state of UX"
-    },
-    "124" : {
-      "complexity" : "Intermediate",
-      "description" : "Unite the benefits from what all cloud providers have to offer and create a global Kubernetes cluster that scales worldwide.",
-      "id" : 124,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 14 ],
-      "tags" : [ "Cloud" , "BigData" ],
-      "title" : "Run a cross-cloud Kubernetes cluster of clusters"
-    },
-    "111" : {
-      "complexity" : "Intermediate",
-      "description" : "TBA",
-      "id" : 111,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 5 ],
-      "tags" : [ "Web" ],
-      "title" : "TBA"
-    },
-    "121" : {
-      "complexity" : "Intermediate",
-      "description" : "Event sourced systems have the potential to completely change the way we create software by solving old problems in new, more predictable and scalable ways. In order to have a successful implementation we do need to know some things about the general reasoning behind these types of architectures. What are the patterns used for event sourced applications, what are the pitfalls and what are the consequences of our design choices, these are some of the questions that will be answered during this presentation.",
-      "id" : 121,
-      "language" : "English",
-      "presentation" : "https://www.slideshare.net/RaduIscu/event-sourcing-3",
-      "speakers" : [ 17 ],
-      "tags" : [ "Web" , "Cloud", "BigData" ],
-      "title" : "The reasoning behind event sourced systems"
-    },
-    "104" : {
-      "complexity" : "Beginner",
-      "description" : "In this presentation we will go throw the requirements for any aspiring Web game developer and how Firebase can remove the biggest hurdles in their path. We will focus on handling user identity, application logic without a concrete server and data storage in the most meaningful way. All of this will be accompanied by a live demo at the end and all the resources will be made available for any curious tinkerers. :)",
-      "id" : 104,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 16 ],
-      "tags" : [ "Cloud" , "Web" , "Gaming" ],
-      "title" : "Games forged in FIRE-wait for it-BASE"
     }
   },
   "speakers" : [ null, {
     "bio" : "Marius Mailat is the founder and chief Android expert at P3 digital services and since 2015 the first Google Developer Expert in Eastern Europe. Marius has a master's degree in Computer Science and has worked in the field of software development for over 18 years. As Chief Technical Officer of P3 digital services, great apps were created in record time and they are still fine examples of workmanship, handmade in Dusseldorf, Belgrade and Cluj-Napoca. He is an active Android trainer a frequent speaker on technical conferences and events. He trained over 500 developers on four continents for companies like Intel, Siemens, Real Networks, Cisco, Garmin and many more.",
-    "company" : "GDE",
-    "companyLogo" : "../images/logos/gde.png",
+    "company" : "P3 digital services",
+    "companyLogo" : "../images/logos/p3.png",
     "country" : "Cluj-Napoca, Romania",
     "featured" : true,
     "id" : 1,
@@ -440,8 +440,8 @@
     "title" : "Founder & CTO"
   }, {
     "bio" : "Shay Ben-Barak helps companies and startups to identify their users' needs and to cater for these needs relevant product-features with the best User eXperience!  He is running a small design boutique that is focusing on complex systems and on meaningful artifacts. Shay owns a master's degree in Cognitive Engineering from the Technion – Israel Institute of Technology and he is deeply involved in product management and UX design of digital products for almost two decades now. He also teaches UX design in the academy and evangelizes for ethical design practices.",
-    "company" : "GDE",
-    "companyLogo" : "../images/logos/gde.png",
+    "company" : "UXD",
+    "companyLogo" : "../images/logos/uxd.png",
     "country" : "Tel-Aviv, Israel",
     "featured" : false,
     "id" : 4,
@@ -461,8 +461,8 @@
     "title" : "Senior UX Designer"
   }, {
     "bio" : "Ciro is Google Developer Expert in Web Technologies, Lead Frontend Engineer at CrossEngage, former contributor to projects like AngularJS, Angular, Angular CLI and Karma. When he's not in the computer or in conferences he's practicing Brazilian Jiu Jitsu.",
-    "company" : "GDE",
-    "companyLogo" : "../images/logos/gde.png",
+    "company" : "CrossEngage",
+    "companyLogo" : "../images/logos/crossengage.png",
     "country" : "Berlin, Germany",
     "featured" : false,
     "id" : 5,
@@ -482,7 +482,7 @@
     "title" : "Lead Frontend Engineer"
   }, {
     "bio" : "Catalina is a Google Developper Expert with an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. She's currently  part of the team in charge with creating the best experiences for the world’s famous football game, FIFA. Previously, for 2 years, she was the person behind the experience of ING Bank’s internet banking and she also coordinated innovative digital campaigns for 3 years, making ING one of the most loved Romanian brands in social media. Catalina is also a UX trainer, mentor and advocate of design thinking approach. She leads the Women Techmakers Chapter by Google Developers Group in Romania and she is dedicated to developing and supporting the tech communities. She’s driven and curious.",
-    "company" : "GDE",
+    "company" : "EA",
     "companyLogo" : "../images/logos/gde.png",
     "country" : "Bucharest, Romania",
     "featured" : true,
@@ -490,7 +490,7 @@
     "name" : "Alina Catalina Banuleasa",
     "photoUrl" : "../images/people/catalina_banuleasa.jpg",
     "shortBio" : "Alina has an extensive experience in User Experience, currently being part of the team in charge with creating the best experiences for the world’s famous football game, FIFA...",
-    "socials" : [{
+    "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/alina.catalina",
       "name" : "Facebook"
@@ -506,7 +506,7 @@
       "icon" : "website",
       "link" : "https://www.banuleasa.com/",
       "name" : "Website"
-    }],
+    } ],
     "tags" : [ "UX" ],
     "title" : "User Experience Designer"
   }, {
@@ -535,27 +535,27 @@
     "tags" : [ "Android" ],
     "title" : "Co-founder"
   }, {
-      "bio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
-      "company" : "GDE",
-      "companyLogo" : "../images/logos/gde.png",
-      "country" : "Berlin, Germany",
-      "featured" : true,
-      "id" : 8,
-      "name" : "David Cifuentes",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/677178939140214784/vBIExZ4j.jpg",
-      "shortBio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/dcifuen",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dcifuen",
-        "name" : "Twitter"
-      } ],
-      "tags" : [ "Cloud"],
-      "title" : "Software Engineer"
+    "bio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
+    "company" : "Zalando SE",
+    "companyLogo" : "../images/logos/zalando.png",
+    "country" : "Berlin, Germany",
+    "featured" : true,
+    "id" : 8,
+    "name" : "David Cifuentes",
+    "photoUrl" : "https://pbs.twimg.com/profile_images/677178939140214784/vBIExZ4j.jpg",
+    "shortBio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/dcifuen",
+      "name" : "LinkedIn"
     }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/dcifuen",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Cloud" ],
+    "title" : "Software Engineer"
+  }, {
     "bio" : "Ana is an experienced developer, currently working on the Android Consumer Application at Deliveroo, UK’s fastest growing tech start-up. She is strongly focused on product quality, innovation and continuous learning. Fun fact about Ana: if you check her Deliveroo order history you'll see only sweets and a prawn that she ordered by mistake to a random address before the app was officially launched.",
     "company" : "Deliveroo",
     "companyLogo" : "../images/logos/deliveroo.png",
@@ -574,12 +574,12 @@
       "link" : "https://twitter.com/anikiki00",
       "name" : "Twitter"
     } ],
-    "tags" : [ "Android"],
+    "tags" : [ "Android" ],
     "title" : "Android Engineer"
   }, {
     "bio" : "Tomas is a Google Developer Expert on Google Cloud Platform and Dart. He is a partner in digital agency Multimedia atelier and founder of backend studio fnx.io. He has 20 years of experience in Java development and project management. He has created many successful applications and intends to create a lot more.",
-    "company" : "GDE",
-    "companyLogo" : "../images/logos/gde.png",
+    "company" : "fnx.io",
+    "companyLogo" : "../images/logos/fnx.png",
     "country" : "Prague, Czech Republic",
     "featured" : true,
     "id" : 10,
@@ -671,7 +671,7 @@
       "link" : "https://www.linkedin.com/in/mariusmitrofan/",
       "name" : "LinkedIn"
     } ],
-    "tags" : [ "Cloud" , "BigData" ],
+    "tags" : [ "Cloud", "BigData" ],
     "title" : "Senior IT Consultant"
   }, {
     "bio" : "Cosmin is a full-stack software engineer and leads the team that develops native apps at the company he founded. He has joined the Android universe more than 7 years ago and his been passionate about creating mobile apps ever since. He believes great architecture and clean code are a must for an excelling product. He loves to travel.",
@@ -691,53 +691,65 @@
     "tags" : [ "Android" ],
     "title" : "Founder and Android Team Lead"
   }, {
-      "bio" : "Mihai is a passionate developer with interests ranging from mobile to web development. He is known to favor front end development but will not forgo any backend opportunities either.",
-      "company" : "Appsbroker",
-      "companyLogo" : "../images/logos/appsbroker_logo.png",
-      "country" : "Iasi, Romania",
-      "featured" : false,
-      "id" : 16,
-      "name" : "Mihai Pistol",
-      "photoUrl" : "../images/people/mihai_pistol.jpg",
-      "shortBio" : "Mihai is a passionate developer with interests ranging from mobile to web development. He is known to favor front end development but will not forgo any backend opportunities either.",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/mihaipistol/",
-        "name" : "LinkedIn"
-      } ],
-      "tags" : [ "Cloud" ],
-      "title" : "Java Developer"
-    }, {
-      "bio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software and its place in the modern world. He's interested in anything from embedded software to distributed systems. When he's not in front of a computer he also cares about biking, photography and art analysis.",
-      "company" : "Levi9",
-      "companyLogo" : "../images/logos/levi9.png",
-      "country" : "Iasi, Romania",
-      "featured" : false,
-      "id" : 17,
-      "name" : "Radu Iscu",
-      "photoUrl" : "../images/people/radu_iscu.jpg",
-      "shortBio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/radu-iscu-5599617/",
-        "name" : "LinkedIn"
-      } ],
-      "tags" : [ "Web" , "Cloud", "BigData" ],
-      "title" : "Solution Architect"
-    }, {
-    "bio" : "Boris Georgiev",
-    "company" : "Google",
-    "companyLogo" : "../images/logos/google.jpg",
-    "country" : "TBA",
+    "bio" : "Mihai is a passionate developer with interests ranging from mobile to web development. He is known to favor front end development but will not forgo any backend opportunities either.",
+    "company" : "Appsbroker",
+    "companyLogo" : "../images/logos/appsbroker_logo.png",
+    "country" : "Iasi, Romania",
     "featured" : false,
-    "id" : 19,
-    "name" : "Boris Georgiev",
-    "photoUrl" : "",
-    "shortBio" : "Boris Georgiev",
-    "tags" : [ "Google", "Cloud"],
-    "title" : "Keynote"
-  }],
-  "team" : [],
+    "id" : 16,
+    "name" : "Mihai Pistol",
+    "photoUrl" : "../images/people/mihai_pistol.jpg",
+    "shortBio" : "Mihai is a passionate developer with interests ranging from mobile to web development. He is known to favor front end development but will not forgo any backend opportunities either.",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/mihaipistol/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Cloud" ],
+    "title" : "Java Developer"
+  }, {
+    "bio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software and its place in the modern world. He's interested in anything from embedded software to distributed systems. When he's not in front of a computer he also cares about biking, photography and art analysis.",
+    "company" : "Levi9",
+    "companyLogo" : "../images/logos/levi9.png",
+    "country" : "Iasi, Romania",
+    "featured" : false,
+    "id" : 17,
+    "name" : "Radu Iscu",
+    "photoUrl" : "../images/people/radu_iscu.jpg",
+    "shortBio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/radu-iscu-5599617/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Web", "Cloud", "BigData" ],
+    "title" : "Solution Architect"
+  }, {
+    "bio" : "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.",
+    "company" : "Google",
+    "companyLogo" : "../images/logos/gde.png",
+    "country" : "London, UK",
+    "featured" : true,
+    "id" : 18,
+    "name" : "Gerard Sans",
+    "photoUrl" : "../images/people/gerard_sans2.jpg",
+    "shortBio" : "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/gerardsans",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/gsans",
+      "name" : "GitHub"
+    }, {
+      "icon" : "website",
+      "link" : " http://lanyrd.com/profile/gerardsans",
+      "name" : "Website"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Angular Evangelist"
+  } ],
   "tickets" : {
     "elements" : [ {
       "currency" : "€",
@@ -765,5 +777,48 @@
     } ],
     "url" : "https://goo.gl/o65Pka"
   },
-  "videos" : []
+  "userSessions" : {
+    "3ZKa0fMyjocmURfKRKIce4bbWO42" : {
+      "102" : true,
+      "111" : true,
+      "113" : true,
+      "114" : true,
+      "115" : true,
+      "116" : true
+    },
+    "4yQhseLfhcZovt3POzs347JLDoI2" : {
+      "102" : true,
+      "103" : true,
+      "104" : true,
+      "105" : true,
+      "112" : true,
+      "116" : true,
+      "205" : true,
+      "206" : true
+    },
+    "PwgNIy2WuhOUQbOufcW42Zywy4E2" : {
+      "121" : true,
+      "201" : true,
+      "202" : true
+    },
+    "Y5fBGRNKd0UAtHgfRb9ekTymsHl2" : {
+      "105" : true,
+      "106" : true,
+      "113" : true,
+      "121" : true,
+      "122" : true,
+      "124" : true,
+      "201" : true,
+      "202" : true,
+      "203" : true
+    },
+    "ucM8Uyd7nkM2YKfVU1fNiameHay1" : {
+      "112" : true,
+      "114" : true,
+      "121" : true,
+      "123" : true,
+      "124" : true,
+      "125" : true
+    }
+  }
 }
