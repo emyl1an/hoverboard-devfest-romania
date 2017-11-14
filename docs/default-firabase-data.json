@@ -64,6 +64,10 @@
       "logoUrl" : "../images/logos/active_life.png",
       "name" : "Active Life",
       "url" : "http://www.activelife.ro"
+    }, {
+      "logoUrl" : "../images/logos/regina_maria.jpg",
+      "name" : "Regina Maria",
+      "url" : "https://www.reginamaria.ro/"
     }],
     "title" : "Wellness"
   } ,{
