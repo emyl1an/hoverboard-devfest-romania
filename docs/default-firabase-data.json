@@ -119,11 +119,11 @@
       "startTime" : "10:15"
     }, {
       "endTime" : "11:45",
-      "sessions" : [ [ 101 ], [ 111 ], [ 121 ] ],
+      "sessions" : [ [ 101 ], [ 121 ], [ 111 ] ],
       "startTime" : "11:00"
     }, {
       "endTime" : "12:45",
-      "sessions" : [ [ 102 ], [ 112 ], [ 122 ] ],
+      "sessions" : [ [ 102 ], [ 122 ], [ 112 ] ],
       "startTime" : "12:00"
     }, {
       "endTime" : "13:30",
@@ -131,11 +131,11 @@
       "startTime" : "12:45"
     }, {
       "endTime" : "14:15",
-      "sessions" : [ [ 103 ], [ 113 ], [ 123 ] ],
+      "sessions" : [ [ 103 ], [ 123 ], [ 113 ] ],
       "startTime" : "13:30"
     }, {
       "endTime" : "15:15",
-      "sessions" : [ [ 104 ], [ 114 ], [ 124 ] ],
+      "sessions" : [ [ 104 ], [ 124 ], [ 114 ] ],
       "startTime" : "14:30"
     }, {
       "endTime" : "15:45",
@@ -143,11 +143,11 @@
       "startTime" : "15:15"
     }, {
       "endTime" : "16:30",
-      "sessions" : [ [ 105 ], [ 115 ], [ 125 ] ],
+      "sessions" : [ [ 105 ], [ 125 ], [ 115 ] ],
       "startTime" : "15:45"
     }, {
       "endTime" : "17:30",
-      "sessions" : [ [ 106 ], [ 116 ], [ 126 ] ],
+      "sessions" : [ [ 106 ], [ 126 ], [ 116 ] ],
       "startTime" : "16:45"
     }, {
       "endTime" : "19:30",
@@ -218,20 +218,20 @@
       "tags" : [ "Web" ],
       "title" : "Animating with Angular"
     },
-    "126" : {
+    "124" : {
       "complexity" : "Intermediate",
       "description" : "We will use lots of google cloud tools (firebase, cloud storage, dataproc, dataflow) to analyze our mobile app user's behavior.",
-      "id" : 126,
+      "id" : 124,
       "language" : "English",
       "presentation" : "https://www.slideshare.net/felixcrisan",
       "speakers" : [ 3 ],
       "tags" : [ "Cloud", "Web", "BigData" ],
       "title" : "XRay into your user behavior data"
     },
-    "103" : {
+    "105" : {
       "complexity" : "Intermediate",
       "description" : "At Google I/O 2017, the Android team lunched Room Persistence Library, an SQLite object mapper. My presentation will be about how to use it in our code.",
-      "id" : 103,
+      "id" : 105,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 12 ],
@@ -258,10 +258,10 @@
       "tags" : [ "Cloud" ],
       "title" : "Google Cloud ML APIs"
     },
-    "105" : {
+    "104" : {
       "complexity" : "Beginner",
       "description" : "Build your mobile application easier and with more visual freedom then ever before.",
-      "id" : 105,
+      "id" : 104,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 10 ],
@@ -308,20 +308,20 @@
       "tags" : [ "UX" ],
       "title" : "Don't Make Me Think!"
     },
-    "106" : {
+    "126" : {
       "complexity" : "Intermediate",
       "description" : "The software industry is on the verge to change and new niches are appearing every day. Do you want to know what are the industry needs and how can you or your  company respond to them? Developing from top to bottom is not enough anymore. A new kind of developer is expected in 2018. Join Marius to find out who is that developer.",
-      "id" : 106,
+      "id" : 126,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 1 ],
       "tags" : [ "Cloud" , "Machine Learning" ],
       "title" : "Where to code next: machine learning, mixed reality, RPA, robotics? A down to earth advice from a Google Developer Expert."
     },
-    "123" : {
+    "103" : {
       "complexity" : "Beginner",
       "description" : "There are a lot of great tools for building Machine Learning applications but the basic theory may still be a barrier into starting you next ML project. We’re going to discuss the basic concepts of Neural Networks and Deep Learning and build our first network using Tensorflow",
-      "id" : 123,
+      "id" : 103,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 7 ],
@@ -338,10 +338,10 @@
       "tags" : [ "UX" ],
       "title" : "The current and future state of UX"
     },
-    "124" : {
+    "123" : {
       "complexity" : "Intermediate",
       "description" : "Unite the benefits from what all cloud providers have to offer and create a global Kubernetes cluster that scales worldwide.",
-      "id" : 124,
+      "id" : 123,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 14 ],
@@ -350,13 +350,13 @@
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : "TBA",
+      "description" : "Forms in Angular",
       "id" : 111,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 5 ],
       "tags" : [ "Web" ],
-      "title" : "TBA"
+      "title" : "Forms in Angular"
     },
     "121" : {
       "complexity" : "Intermediate",
@@ -365,18 +365,28 @@
       "language" : "English",
       "presentation" : "https://www.slideshare.net/RaduIscu/event-sourcing-3",
       "speakers" : [ 17 ],
-      "tags" : [ "Web" , "Cloud", "BigData" ],
+      "tags" : [ "Cloud", "BigData", "Web"  ],
       "title" : "The reasoning behind event sourced systems"
     },
-    "104" : {
+    "106" : {
       "complexity" : "Beginner",
       "description" : "In this presentation we will go throw the requirements for any aspiring Web game developer and how Firebase can remove the biggest hurdles in their path. We will focus on handling user identity, application logic without a concrete server and data storage in the most meaningful way. All of this will be accompanied by a live demo at the end and all the resources will be made available for any curious tinkerers. :)",
-      "id" : 104,
+      "id" : 106,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 16 ],
-      "tags" : [ "Cloud" , "Web" , "Gaming" ],
+      "tags" : [ "Cloud" , "Web" , "Gaming" , "Mobile" ],
       "title" : "Games forged in FIRE-wait for it-BASE"
+    },
+    "211" : {
+      "complexity" : "Beginner",
+      "description" : "Keynote",
+      "id" : 211,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 18 ],
+      "tags" : [ "Google" , "Cloud" ],
+      "title" : "Keynote"
     }
   },
   "speakers" : [ null, {
@@ -733,8 +743,8 @@
     "company" : "Google",
     "companyLogo" : "../images/logos/google.jpg",
     "country" : "Bulgaria",
-    "featured" : false,
-    "id" : 19,
+    "featured" : true,
+    "id" : 18,
     "name" : "Boris Georgiev",
     "photoUrl" : "../images/people/boris.jpg",
     "shortBio" : "Boris Georgiev started his career at Google in 2013 as Head of Google Enterprise for SEE region with the Google Enterprise in Bucharest...",
