@@ -196,6 +196,7 @@
               {% for link in contactBlock.links %}
                 <li>
                   <a href="{$ link.url $}" {% if link.newTab %}target="_blank" rel="noopener noreferrer"{% endif %}>{$ link.text $}</a>
+                  <p>{$ link.phone $}</p>
                 </li>
               {% endfor %}
             </ul>
