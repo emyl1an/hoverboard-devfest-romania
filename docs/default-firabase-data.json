@@ -729,17 +729,17 @@
       "tags" : [ "Web" , "Cloud", "BigData" ],
       "title" : "Solution Architect"
     }, {
-    "bio" : "Boris Georgiev",
+    "bio" : "Boris Georgiev started his career at Google in 2013 as Head of Google Enterprise for SEE region with the Google Enterprise in Bucharest. In 2014 he took responsibility of the whole CEE region as part of the Google for Work team. Since the beginning of 2017, he is responsible for the Google Cloud business in CEE, Russia & CIS regions. Google Cloud technologies cover Infrastructure-, Platform-, Database-, Machine Learning- as well as Data-Analytics-as-a-Service. Apart from these technologies, he is also covering all other services across Cloud Platform, G Suite, Chrome and Android. Before joining Google Boris Georgiev worked in different roles in Telco Sales at Cisco, covering Networking, Security, Data Center and Unified Communications solutions, with his last role being the sales lead of Cisco's Telco team for Bulgaria.",
     "company" : "Google",
     "companyLogo" : "../images/logos/google.jpg",
-    "country" : "TBA",
+    "country" : "Bulgaria",
     "featured" : false,
     "id" : 19,
     "name" : "Boris Georgiev",
-    "photoUrl" : "",
-    "shortBio" : "Boris Georgiev",
+    "photoUrl" : "../images/people/boris.jpg",
+    "shortBio" : "Boris Georgiev started his career at Google in 2013 as Head of Google Enterprise for SEE region with the Google Enterprise in Bucharest...",
     "tags" : [ "Google", "Cloud"],
-    "title" : "Keynote"
+    "title" : "Head of Google CEE, Russia & CIS"
   }],
   "team" : [],
   "tickets" : {
