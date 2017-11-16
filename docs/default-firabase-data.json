@@ -172,13 +172,15 @@
     "202" : {
       "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
       "id" : 202,
-      "title" : "GDG DevFest Romania 2017 Opening"
+      "title" : "GDG DevFest Romania 2017 Opening - Room 2",
+      "speakers" : [ 12, 19 ]
     },
     "203" : {
       "description" : "Keynote",
       "id" : 203,
       "language" : "English",
-      "title" : "Keynote"
+      "title" : "Keynote - Room 2",
+      "speakers" : [ 18, 1 ]
     },
     "204" : {
       "description" : "Foooooooood!",
@@ -546,7 +548,7 @@
       "link" : "https://twitter.com/vicgrad",
       "name" : "Twitter"
     } ],
-    "tags" : [ "Android" ],
+    "tags" : [ "Android", "Cloud" ],
     "title" : "Co-founder"
   }, {
       "bio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
@@ -719,7 +721,7 @@
         "link" : "https://www.linkedin.com/in/mihaipistol/",
         "name" : "LinkedIn"
       } ],
-      "tags" : [ "Cloud" ],
+      "tags" : [ "Cloud", "Web", "Android" ],
       "title" : "Java Developer"
     }, {
       "bio" : "Radu is a software developer that is passionate about code craftsmanship. He's interested about the way people see software and its place in the modern world. He's interested in anything from embedded software to distributed systems. When he's not in front of a computer he also cares about biking, photography and art analysis.",
@@ -739,16 +741,35 @@
       "tags" : [ "Web" , "Cloud", "BigData" ],
       "title" : "Solution Architect"
     }, {
-    "bio" : "Boris Georgiev started his career at Google in 2013 as Head of Google Enterprise for SEE region with the Google Enterprise in Bucharest. In 2014 he took responsibility of the whole CEE region as part of the Google for Work team. Since the beginning of 2017, he is responsible for the Google Cloud business in CEE, Russia & CIS regions. Google Cloud technologies cover Infrastructure-, Platform-, Database-, Machine Learning- as well as Data-Analytics-as-a-Service. Apart from these technologies, he is also covering all other services across Cloud Platform, G Suite, Chrome and Android. Before joining Google Boris Georgiev worked in different roles in Telco Sales at Cisco, covering Networking, Security, Data Center and Unified Communications solutions, with his last role being the sales lead of Cisco's Telco team for Bulgaria.",
-    "company" : "Google",
-    "companyLogo" : "../images/logos/google.jpg",
-    "country" : "Bulgaria",
-    "featured" : true,
-    "id" : 18,
-    "name" : "Boris Georgiev",
-    "photoUrl" : "../images/people/boris.jpg",
-    "shortBio" : "Boris Georgiev started his career at Google in 2013 as Head of Google Enterprise for SEE region with the Google Enterprise in Bucharest...",
-    "tags" : [ "Google", "Cloud"],
+      "bio" : "Boris Georgiev started his career at Google in 2013 as Head of Google Enterprise for SEE region with the Google Enterprise in Bucharest. In 2014 he took responsibility of the whole CEE region as part of the Google for Work team. Since the beginning of 2017, he is responsible for the Google Cloud business in CEE, Russia & CIS regions. Google Cloud technologies cover Infrastructure-, Platform-, Database-, Machine Learning- as well as Data-Analytics-as-a-Service. Apart from these technologies, he is also covering all other services across Cloud Platform, G Suite, Chrome and Android. Before joining Google Boris Georgiev worked in different roles in Telco Sales at Cisco, covering Networking, Security, Data Center and Unified Communications solutions, with his last role being the sales lead of Cisco's Telco team for Bulgaria.",
+      "company" : "Google",
+      "companyLogo" : "../images/logos/google.jpg",
+      "country" : "Bulgaria",
+      "featured" : true,
+      "id" : 18,
+      "name" : "Boris Georgiev",
+      "photoUrl" : "../images/people/boris.jpg",
+      "shortBio" : "Boris Georgiev started his career at Google in 2013 as Head of Google Enterprise for SEE region with the Google Enterprise in Bucharest...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/boris-georgiev-046b3825/",
+        "name" : "LinkedIn"
+      }, {
+        "bio" : "Bogdan is a lead developer at Appsbroker. Having over 10 years of experience with Java stack he is an enthusiastic and dedicated IT professional, addicted to Agile practices. He has a passion for cloud technologies and as GDG Iasi co-organiser he loves to share his knowledge for the community.",
+        "company" : "Appsbroker",
+        "companyLogo" : "../images/logos/appsbroker_logo.png",
+        "country" : "Iasi, Romania",
+        "featured" : false,
+        "id" : 19,
+        "name" : "Bogdan Botea",
+        "photoUrl" : "../images/people/bogdan_botea.jpg",
+        "shortBio" : "Bogdan is a lead developer at Appsbroker. Having over 10 years of experience with Java stack...",
+        "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/bogdanbotea/",
+          "name" : "LinkedIn"
+        } ],
+    "tags" : [ "Cloud" , "BigData" , "GDG"],
     "title" : "Head of Google CEE, Russia & CIS"
   }],
   "team" : [],
